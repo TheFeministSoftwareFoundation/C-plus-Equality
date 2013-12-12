@@ -1,4 +1,4 @@
-  ![FSF](http://i.imgur.com/ROyOJCP.jpg)
+  ![FSF](http://i.imgur.com/UoTP9DE.png)
 
 C+=
 ===============
