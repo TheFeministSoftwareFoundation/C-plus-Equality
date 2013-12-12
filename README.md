@@ -1,12 +1,14 @@
   ![FSF](http://i.imgur.com/ROyOJCP.jpg)
 
-C-plus-Equality
+C+=
 ===============
 
 **C+=** (pronounced *C-plus-Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
-Preamble
-========
+Inspired by the [groundbreaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
+
+Philosophy
+==========
 
 1. No constants or persistence. Rigidity is masculine; the feminine is fluid. I.e., [fluid mechanics is hard for men 'because it deals with "feminine" fluids in contrast to "masculine" rigid mechanics'](https://en.wikipedia.org/wiki/Luce_Irigaray).
 2. No state. The State is The Man. 'Nuff said. Hence, the language should be purely functional.
@@ -17,3 +19,10 @@ Preamble
 7. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
 8. Licensing: the Femnist Software Foundation License.
 
+Data types
+==========
+
+* *Integers*, *doubles*, and *longs* are deemed to be unnecessary labels and stereotypes for numerical values.  A number can be an integer or a a double or a long if xir so identifies xirself.  **All numerical values will thus be represented as _xe_.**
+* *Booleans* are benned for imposing a binary view of true and false.  **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic.
+* *Strings* are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
+* *Characters* are now called **_strong_**.
