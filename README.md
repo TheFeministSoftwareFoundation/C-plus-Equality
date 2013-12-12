@@ -24,6 +24,7 @@ Data types
 
 * **Integers, doubles, and longs** are deemed to be unnecessary labels and stereotypes for numerical values.  A number can be an integer or a a double or a long if xir so identifies xirself.  All numerical values will thus be represented as **_xe_**, and it is up to the value xirself to choose to identify as whatever xir chooses to identify as.
 * **Booleans** are __benned__ for imposing a binary view of true and false.  **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic.  **No means no, and yes could mean no as well.  Stop raping womyn.**
+* Instead of **Booleans** we now have **Boolean+**, or **_bool+_** for short, which has three states: *true, false, and maybe*.  The number of states may go up as intersectionality of the moment calls for such a need.
 * **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
 * **Characters** are now called **_strong_**.
 * In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
@@ -41,3 +42,5 @@ Anything that can be construed as misogynist will be corrected, thus:
 * if() == check()
 
 The third example above might seem to contradict with item 4 under Philosophy, namely that there should be no class hierarchy in **C+=**.  This, however, is completely intended, and is in fact an example of the feminist paralogicality of this language.
+
+
