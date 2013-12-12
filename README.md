@@ -39,4 +39,4 @@ Anything that can be construed as misogynist will be corrected, thus:
 * break; == leave;
 * if() == check()
 
-
+The third example above might seem to contradict with item 4 under Philosophy, namely that there should be no class hierarchy in **C+=**.  This, however, is completely intended, and is in fact an example of the feminist paralogicality of this language.
