@@ -98,9 +98,10 @@ Syntax
 Logic Operants
 --------------
 
-* The use of mathematical operands such as < and > to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
+* The use of mathematical operands such as \< and \> to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
 * These should be replaced by the stats neutral operands / and \, and when you're note sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
 * Equality between two variables is denoted by ==. If the two variables cannot be compared, the second will be cast into the first's type, which causes obvious conflicts with queer theory and genderspace thought. Hence, the interpreter will throw an IdeologyThreatenedTriggerWarning whenever two types cannot be compared.
+* When evaluating expressions, * and / are no longer privileged over + and -. Rather, each previous use of each operator is counted, and expressions are evaluated based on which ones have been used the least up until that point.
 
 Debugging
 =========
@@ -110,6 +111,7 @@ Debugging
 * The word *debugging* also imples the phrase *bug chasing*, which is a strawman often used as a homophobic smear tactic.  This is highly problematic.
 * There is to be no debugging. We need to do away with functional-centric, bugphobic attitudes in programming. You need to accept the program the way it is.
 * If you ever try to debug a **C+=** program, the program steps you through the programming, makes you guess what each variable and pointer is currently set to, and throws a **Trigger Warning** if you get it wrong.
+* Any actual errors will simply result in 'error' being printed.  It is not the program's job to educate you.
 
 File operations
 ===============
