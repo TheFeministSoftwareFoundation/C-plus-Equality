@@ -29,35 +29,6 @@ See our [FizzBuzz implementation](https://github.com/FeministSoftwareFoundation/
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
-Data types and Structures
-=========================
-
-* Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilised/-ized.  This preserves the variable's right to self-identify as any datatype it feels that it is.
-* Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
-* **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
-* The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1).  The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
-* Instead of **signed and unsigned**, types in **C+=** are either **cis or trans*.** Any **trans*** types function the same as **_diversity_**.
-* There is to be no lexical scoping — all variables are now global.  Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
-* There is to be **no encapsulation**: don't tell me to protect my members, tell other functions not to access them!
-
-***
-
-* **Integers, doubles, and longs** are deemed to be unnecessary labels and stereotypes for numerical values.  A number can be an integer or a a double or a long if xir so identifies xirself.  All numerical values will thus be represented as **_xe_**, and it is up to the value xirself to choose to identify as whatever xir chooses to identify as.
-* **Booleans** are __banned__ for imposing a binary view of true and false.  **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic.  **No means no, and yes could mean no as well.  Stop raping women.**
-* Instead of **Booleans** we now have **Boolean+**, or **_bool+_** for short, which has three states: *true, false, and maybe*.  The number of states may go up as intersectionality of the moment calls for such a need.
-* **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
-* **Characters** are now called **_strong_**.
-* **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
-* A new data type, **_diversity_**, is also included, which initiates by random as one of the many data types, and changes during the course of the program.
-* In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
-* Data structures and variables of all kinds have a random chance of deciding that they don't "feel right", and are actually a different type, and must henceforth be referred to ONLY as its preferred data type.
-* Not calling the preferred data type leads to a PrivilegeNotCheckedException, or **PrivilegeNotCheckedTriggerWarning**
-* Each program must have an equal number of each available data type and they all must be used equally. For example, int ceo = 3, int stewardess = 5 would generate a trigger_warning(). However, int ceo = 3, char stewardess = apple would be fine. While this may look incorrect, keep in mind variables in this language are not constrained by their declared data types.
-
-***
-
-* **Matrices** are strongly encouraged, due to the word's etymological roots tracing back to *mother* in Latin.  **Matrices** are to be ranked and sorted by their relative Privilege.  Their relative levels of Privilege are to be revealed only if the programmer and the user are both women.  If you are a man reading this README, **Matrices** don't have privileges and are eternally oppressed.  Instead, consider checking your own privilege, and stop raping women.
-
 On 1s and 0s
 ============
 
@@ -94,6 +65,35 @@ All **functions and procedures** are now called **_lobbying_**, because actually
 * All **lobbying** must be run at the right level of privilege. Before returning anything they must check their privilege.
 * If any other **lobbying** is more disadvantaged than this it will win the Privilege Check and return its own value instead. This stops heterosexist and cis-gendered **lobbyings** from dominating the discourse.
 * Should there be any **exceptions** from running the program, **C+=** will throw a **Trigger Warning**.
+
+Data types and Structures
+=========================
+
+* Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilised/-ized.  This preserves the variable's right to self-identify as any datatype it feels that it is.
+* Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
+* **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
+* The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1).  The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
+* Instead of **signed and unsigned**, types in **C+=** are either **cis or trans*.** Any **trans*** types function the same as **_diversity_**.
+* There is to be no lexical scoping — all variables are now global.  Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
+* There is to be **no encapsulation**: don't tell me to protect my members, tell other functions not to access them!
+
+***
+
+* **Integers, doubles, and longs** are deemed to be unnecessary labels and stereotypes for numerical values.  A number can be an integer or a a double or a long if xir so identifies xirself.  All numerical values will thus be represented as **_xe_**, and it is up to the value xirself to choose to identify as whatever xir chooses to identify as.
+* **Booleans** are __banned__ for imposing a binary view of true and false.  **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic.  **No means no, and yes could mean no as well.  Stop raping women.**
+* Instead of **Booleans** we now have **Boolean+**, or **_bool+_** for short, which has three states: *true, false, and maybe*.  The number of states may go up as intersectionality of the moment calls for such a need.
+* **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
+* **Characters** are now called **_strong_**.
+* **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
+* A new data type, **_diversity_**, is also included, which initiates by random as one of the many data types, and changes during the course of the program.
+* In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
+* Data structures and variables of all kinds have a random chance of deciding that they don't "feel right", and are actually a different type, and must henceforth be referred to ONLY as its preferred data type.
+* Not calling the preferred data type leads to a PrivilegeNotCheckedException, or **PrivilegeNotCheckedTriggerWarning**
+* Each program must have an equal number of each available data type and they all must be used equally. For example, int ceo = 3, int stewardess = 5 would generate a trigger_warning(). However, int ceo = 3, char stewardess = apple would be fine. While this may look incorrect, keep in mind variables in this language are not constrained by their declared data types.
+
+***
+
+* **Matrices** are strongly encouraged, due to the word's etymological roots tracing back to *mother* in Latin.  **Matrices** are to be ranked and sorted by their relative Privilege.  Their relative levels of Privilege are to be revealed only if the programmer and the user are both women.  If you are a man reading this README, **Matrices** don't have privileges and are eternally oppressed.  Instead, consider checking your own privilege, and stop raping women.
 
 Resource management
 ===================
