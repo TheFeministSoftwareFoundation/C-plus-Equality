@@ -84,3 +84,9 @@ Syntax
 * Curly brackets are not allowed, as they perpetuate our society's stereotype of the 'curly' women.  Instead, Python-esque indentation is used.
 * Indentation is fluid.  Both spaces and tabs are allowed.  At no point should the programmer attempt to use indentation to create actual hierarchy in code nesting, as that implies hierarchy in the code.  Instead, code indentation is used only for aesthetic purposes.
 
+Debugging
+=========
+
+* There can be no bugs in this language.  To say there is is offensive.
+* There is to be no debugging. We need to do away with functional-centric, bugphobic attitudes in programming. You need to accept the program the way it is.
+* If you ever try to debug a **C+=** program, the program steps you through the programming, makes you guess what each variable and pointer is currently set to, and throws a **Trigger Warning** if you get it wrong.
