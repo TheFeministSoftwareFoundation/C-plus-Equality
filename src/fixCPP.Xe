@@ -28,6 +28,7 @@ std::normal_distribution<double> request(0, 1);
 #define honors(X, Y) ((X)<(Y))
 #define like(X) x++
 #define envelops(X,Y) ((X)%(Y)==0) //replace the cock and balls operator (%)
+#define mansplain(X) std::cerr << (X);
 
 #define maybe if
 #define perhaps(X) if(((int)(request(feelings))) == 0)
