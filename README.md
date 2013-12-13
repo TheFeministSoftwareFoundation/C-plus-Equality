@@ -33,7 +33,7 @@ Our in*her*preter is still in its early stages, but it is perfectly fine and don
 On 1s and 0s
 ============
 
-The traditional binary foundation of 1s and 0s is deeply problematic: 1 is inherently phallic and thus misogynistic.  Instead, we have 0s and Os as our fundamental binary logic gates.  They symbolise/-ize the varying, natural, and beautiful differences of the female vaginal opening.
+The traditional binary foundation of 1s and 0s is deeply problematic: 1 is inherently phallic and thus misogynistic.  Also, some 1s are 0s, and some 0s are 1s.  It is not fair to give them immutable labels.  Instead, we have 0s and Os as our fundamental binary logic gates.  They symbolise/-ize the varying, natural, and beautiful differences of the female vaginal opening.
 
 0 is to take the conventional value of 0.
 
