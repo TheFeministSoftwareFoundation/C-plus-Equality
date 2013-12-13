@@ -20,7 +20,8 @@ Philosophy
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
 9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 40% chance of doing what is done in the code, 40% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().  *Math(s) don't real.*
 10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call\)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
-11. Licensing: the [Feminist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/mistress/LICENSE).
+11. Forced program termination is not allowed unless the program consents to it.  *My process, my choice.*
+12. Licensing: the [Feminist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/mistress/LICENSE).
 
 Code Examples
 =============
@@ -108,6 +109,7 @@ Syntax
 
 * Curly brackets are not allowed, as they perpetuate our society's stereotype of the 'curly' women.  Instead, Python-esque indentation is used.
 * Indentation is fluid.  Both spaces and tabs are allowed.  At no point should the programmer attempt to use indentation to create actual hierarchy in code nesting, as that implies hierarchy in the code.  Instead, code indentation is used only for aesthetic purposes.
+* Line terminators should not be used.  Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers. 
 
 Logic Operants
 --------------
