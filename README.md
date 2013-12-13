@@ -2,6 +2,8 @@
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
+Now hosted on BitBucket, as GitHub proves to be too misogynistic to support a feminist programming language.
+
 C+=
 ===============
 
