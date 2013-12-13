@@ -1,4 +1,4 @@
 inherpret
 logic
-src/*.o
+*.o
 men/
