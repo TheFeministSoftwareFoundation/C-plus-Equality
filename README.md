@@ -88,5 +88,6 @@ Debugging
 =========
 
 * There can be no bugs in this language.  To say there is is offensive.
+* There are no bugs, only snowflakes.
 * There is to be no debugging. We need to do away with functional-centric, bugphobic attitudes in programming. You need to accept the program the way it is.
 * If you ever try to debug a **C+=** program, the program steps you through the programming, makes you guess what each variable and pointer is currently set to, and throws a **Trigger Warning** if you get it wrong.
