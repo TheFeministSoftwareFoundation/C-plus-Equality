@@ -84,9 +84,7 @@ Data types and Structures
 * **Booleans** are __banned__ for imposing a binary view of true and false.  **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic.  **No means no, and yes could mean no as well.  Stop raping women.**
 * Instead of **Booleans** we now have **Boolean+**, or **_bool+_** for short, which has three states: *true, false, and maybe*.  The number of states may go up as intersectionality of the moment calls for such a need.
 * To illustrate the relationship between **Booleans** and **Boolean+**, consider the following flowchart:
-
 ![BooleanPlus](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/mistress/assets/BooleanPlusCurvyAll.png)
-
 * **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
 * **Characters** are now called **_strong_**.
 * **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
