@@ -10,16 +10,16 @@ Inspired by the [groundbreaking feminist research of Arielle Schlesinger](http:/
 Philosophy
 ==========
 
-1. The language is to be strictly interpreted using feminist theory.  Under no circumstances should the language be compiled, as compilation and the use of a compiler imposes an oppressive and toxic relationship between the high-level descriptive language and the low-level machine code that does all the labour.  Instead, **C+=** is interpreted, which fosters communication, itself a strong female trait.
+1. The language is to be strictly [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) using [feminist theory](https://en.wikipedia.org/wiki/Feminist_theory).  Under no circumstances should the language be [compiled](https://en.wikipedia.org/wiki/Compiled_language), as compilation and the use of a compiler imposes an oppressive and toxic relationship between the high-level descriptive language and the low-level machine code that does all the labour.  Instead, **C+=** is interpreted, which fosters communication, itself a strong female trait.
 2. No constants or persistence. Rigidity is masculine; the feminine is fluid. I.e., [fluid mechanics is hard for men 'because it deals with "feminine" fluids in contrast to "masculine" rigid mechanics'](https://en.wikipedia.org/wiki/Luce_Irigaray).
-3. No state. The State is The Man. 'Nuff said. Hence, the language should be purely functional.
+3. No state. The State is The Man. 'Nuff said. Hence, the language should be purely [functional](https://en.wikipedia.org/wiki/Functional_language).
 4. Women are better than men with natural language. Hence, the language should be English-based like HyperCard/[LiveCode](https://en.wikipedia.org/wiki/LiveCode#Examples).
-5. No class hierarchy or other stigmata of OOP (objectification-oriented programming). In fact, as an [intersectional](http://geekfeminism.wikia.com/wiki/Intersectionality) acknowledgement of Class Struggle our language will have no classes at all.
+5. No class hierarchy or other stigmata of [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) ([objectification](https://en.wikipedia.org/wiki/Sexual_objectification)-oriented programming). In fact, as an [intersectional](http://geekfeminism.wikia.com/wiki/Intersectionality) acknowledgement of Class Struggle our language will have no classes at all.
 6. Men are visual. Hence, no graphics. Just audio and text I/O.
-7. Unicode has a lot of pretty symbols. Allow their use through UTF-8.
+7. [Unicode](https://en.wikipedia.org/wiki/Unicode) has a lot of pretty symbols. Allow their use through UTF-8.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
 9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 30% chance of doing what is done in the code, 30% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().
-10. Programs are never to be "forked", as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforce be called "consenting", and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
+10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforce be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
 11. Licensing: the [Femnist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/LICENSE).
 
 Code Examples
