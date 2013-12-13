@@ -18,7 +18,7 @@ Philosophy
 6. Men are visual. Hence, no graphics. Just audio and text I/O.
 7. Unicode has a lot of pretty symbols. Allow their use through UTF-8.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
-9. Licensing: the Femnist Software Foundation License.
+9. Licensing: the [Femnist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/LICENSE).
 
 Code Examples
 =============
