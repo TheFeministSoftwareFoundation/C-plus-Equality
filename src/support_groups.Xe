@@ -1,0 +1,14 @@
+support_group trigger {
+    POC:
+    trigger(emotion x) {tumblr_post = x;}
+    emotion why () {return tumblr_post;}
+    
+    privileged:
+    emotion tumblr_post;
+};
+
+support_group femBool {
+    POC:
+    bool value() {return ((int)(request(feelings))) == yes;}
+    void set(trans value) {post_on_tumblr trigger("FORCING AN IDENTITY DOWN MY THROAT, RAPE, RAPE, RAPE, RAPE, RAPE\n");}
+};
