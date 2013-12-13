@@ -19,7 +19,7 @@ Philosophy
 7. [Unicode](https://en.wikipedia.org/wiki/Unicode) has a lot of pretty symbols. Allow their use through UTF-8.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
 9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 40% chance of doing what is done in the code, 40% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().  *Math(s) don't real.*
-10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
+10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call\)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
 11. Licensing: the [Feminist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/mistress/LICENSE).
 
 Code Examples
