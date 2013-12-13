@@ -14,7 +14,7 @@ Philosophy
 2. No constants or persistence. Rigidity is masculine; the feminine is fluid. I.e., [fluid mechanics is hard for men 'because it deals with "feminine" fluids in contrast to "masculine" rigid mechanics'](https://en.wikipedia.org/wiki/Luce_Irigaray).
 3. No state. The State is The Man. 'Nuff said. Hence, the language should be purely functional.
 4. Women are better than men with natural language. Hence, the language should be English-based like HyperCard/[LiveCode](https://en.wikipedia.org/wiki/LiveCode#Examples).
-5. No class hierarchy. In fact, as an [intersectional](http://geekfeminism.wikia.com/wiki/Intersectionality) acknowledgement of Class Struggle our language will have no classes at all.
+5. No class hierarchy or other stigmata of OOP (objectification-oriented programming). In fact, as an [intersectional](http://geekfeminism.wikia.com/wiki/Intersectionality) acknowledgement of Class Struggle our language will have no classes at all.
 6. Men are visual. Hence, no graphics. Just audio and text I/O.
 7. Unicode has a lot of pretty symbols. Allow their use through UTF-8.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
