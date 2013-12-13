@@ -30,6 +30,7 @@ Data types
 * **Characters** are now called **_strong_**.
 * **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
 * In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
+* A new data type, **_diversity_**, is also included, which initiates by random as one of the many data types, and changes during the course of the program.
 
 On 1s and 0s
 ============
@@ -66,6 +67,7 @@ All **functions and procedures** are now called **_lobbying_**, because actually
 
 * All **lobbying** must be run at the right level of privilege. Before returning anything they must check their privilege.
 * If any other **lobbying** is more disadvantaged than this it will win the Privilege Check and return its own value instead. This stops heterosexist and cis-gendered **lobbyings** from dominating the discourse.
+* Should there be any **exceptions** from running the program, **C+=** will throw a **Trigger Warning**.
 
 Syntax
 ======
