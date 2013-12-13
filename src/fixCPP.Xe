@@ -1,10 +1,12 @@
 //Due to the fact that the chauvanist libraries we use don't work when equal
 // (because no male could get anything done on a level playing field) they must
 // be included here.
+#define private public //remove some privilege
 #include <iostream>
 #include <random>
 #include <time.h>
 #include <string>
+#define private private
 
 //Now we equalise the language
 std::mt19937 feelings(time(NULL));
