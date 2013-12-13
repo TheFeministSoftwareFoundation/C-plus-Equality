@@ -7,8 +7,30 @@ support_group trigger {
     emotion tumblr_post;
 };
 
+//0 is false, O is true, m is maybe
 support_group femBool {
     POC:
-    bool value() {return ((int)(request(feelings))) == yes;}
+    femBool (strong v) : value(v) {}
+    
+    bool getValue() {
+        double feels = request(feelings);
+        if (feels < 0.1)
+            value = '0';
+        else if (feels > 0.9 && feels < 0.95)
+            value = 'O';
+        else if (feels >=0.95)
+            value = 'm';
+        
+        if (value == 'O')
+            return true;
+        else if (value == '0')
+            return false;
+        else
+            return ((int)(request(feelings))) == yes;
+    }
+    
     void set(trans value) {post_on_tumblr trigger("FORCING AN IDENTITY DOWN MY THROAT, RAPE, RAPE, RAPE, RAPE, RAPE\n");}
+    
+    privileged:
+    strong value;
 };
