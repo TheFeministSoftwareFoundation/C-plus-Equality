@@ -20,6 +20,11 @@ Philosophy
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
 9. Licensing: the Femnist Software Foundation License.
 
+Code Examples
+=============
+
+See our [FizzBuzz implementation](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/fizzbuzz.She).
+
 Data types
 ==========
 
