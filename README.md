@@ -5,7 +5,7 @@ C+=
 
 **C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
-Inspired by the [groundbreaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
+Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
 Philosophy
 ==========
@@ -19,8 +19,8 @@ Philosophy
 7. [Unicode](https://en.wikipedia.org/wiki/Unicode) has a lot of pretty symbols. Allow their use through UTF-8.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
 9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 40% chance of doing what is done in the code, 40% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().  *Math(s) don't real.*
-10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforce be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
-11. Licensing: the [Femnist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/LICENSE).
+10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
+11. Licensing: the [Feminist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/LICENSE).
 
 Code Examples
 =============
@@ -61,7 +61,7 @@ Data types and Structures
 On 1s and 0s
 ============
 
-The traditional binary foundation of 1s and 0s is deepy problematic: 1 is inherently phallic and thus misogynistic.  Instead, we have 0s and Os as our fundamental binary logic gates.  They symbolise/-ize the varying, natural, and beautiful differences of the female vaginal opening.
+The traditional binary foundation of 1s and 0s is deeply problematic: 1 is inherently phallic and thus misogynistic.  Instead, we have 0s and Os as our fundamental binary logic gates.  They symbolise/-ize the varying, natural, and beautiful differences of the female vaginal opening.
 
 0 is to take the conventional value of 0.
 
@@ -122,7 +122,7 @@ Debugging
 
 * There can be no bugs in this language.  To say there is, is offensive.
 * There are no bugs, only snowflakes.
-* The word *debugging* also imples the phrase *bug chasing*, which is a strawman often used as a homophobic smear tactic.  This is highly problematic.
+* The word *debugging* also implies the phrase *bug chasing*, which is a strawman often used as a homophobic smear tactic.  This is highly problematic.
 * There is to be no debugging. We need to do away with functional-centric, bugphobic attitudes in programming. You need to accept the program the way it is.
 * If you ever try to debug a **C+=** program, the program steps you through the programming, makes you guess what each variable and pointer is currently set to, and throws a **Trigger Warning** if you get it wrong.
 * Any actual errors will simply result in 'error' being printed.  It is not the program's job to educate you.
