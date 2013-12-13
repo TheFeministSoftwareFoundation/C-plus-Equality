@@ -51,7 +51,8 @@ Data types and Structures
 * A new data type, **_diversity_**, is also included, which initiates by random as one of the many data types, and changes during the course of the program.
 * In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
 * Data structures and variables of all kinds have a random chance of deciding that they don't "feel right", and are actually a different type, and must henceforth be referred to ONLY as its preferred data type.
-* Not calling the preferred data type leads to a PrivilegeNotCheckedException, or PrivilegeNotCheckedTriggerWarning
+* Not calling the preferred data type leads to a PrivilegeNotCheckedException, or **PrivilegeNotCheckedTriggerWarning**
+* Each program must have an equal number of each available data type and they all must be used equally. For example, int ceo = 3, int stewardess = 5 would generate a trigger_warning(). However, int ceo = 3, char stewardess = apple would be fine. While this may look incorrect, keep in mind variables in this language are not constrained by their declared data types.
 
 ***
 
