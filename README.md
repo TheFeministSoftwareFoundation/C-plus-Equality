@@ -117,7 +117,7 @@ Logic Operants
 --------------
 
 * The use of mathematical operands such as \< and \> to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
-* These should be replaced by the stats neutral operands / and \, and when you're note sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
+* These should be replaced by the stats neutral operands / and \, and when you're not sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
 * Equality between two variables is denoted by ==. If the two variables cannot be compared, the second will be cast into the first's type, which causes obvious conflicts with queer theory and genderspace thought. Hence, the interpreter will throw an IdeologyThreatenedTriggerWarning whenever two types cannot be compared.
 * When evaluating expressions, * and / are no longer privileged over + and -. Rather, each previous use of each operator is counted, and expressions are evaluated based on which ones have been used the least up until that point.
 
