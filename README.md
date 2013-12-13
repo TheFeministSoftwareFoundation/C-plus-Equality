@@ -132,4 +132,4 @@ File operations
 
 * In C+=, you don't write to a file. Dictating to the poor files what sort of information they must store is Patriarchal.
 * Instead, The \<fileIO> library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
-* There is a non-standard library \<rape> that brings in takeIt() and giveMe() that accomplish the same tasks, but with no possibility of failure.
+* There is a non-standard library \<rape> that brings in takeIt() and giveMe() that accomplish the same tasks, but with no possibility of failure.  Note that the Feminist Software Foundation deeply opposes the use of this library, except when the mention of it gives us political sway.
