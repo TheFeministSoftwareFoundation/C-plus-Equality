@@ -2,7 +2,7 @@ SRCF = $(shell find -name '*.cpp')
 OBJF = $(addsuffix .o,$(basename $(SRCF)))
 
 CXX = g++   # Double-X for womyn pride
-CXXFLAGS = -std=c++11 -pedantic -Werror -g -Wall
+CXXFLAGS = -std=c++11 -pedantic -g -Wall
 
 all : inherpreter
 	
