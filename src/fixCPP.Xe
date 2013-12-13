@@ -18,15 +18,10 @@ std::normal_distribution<double> request(0, 1);
 #define POC public
 #define attempt try
 #define on_alternative_success catch
-
-class trigger {
-    POC:
-    trigger(emotion x) {tumblr_post = x;}
-    emotion why () {return tumblr_post;}
-    
-    privileged:
-    emotion tumblr_post;
-};
+#define post_on_tumblr throw
+#define support_group class
+#define no 0
+#define yes 0
 
 #define maybe if
 #define perhaps(X) if(((int)(request(feelings))) == 0)
@@ -37,9 +32,11 @@ class trigger {
 #define of_the_following <<
 #define also <<
 
+#include "support_groups.Xe"
+
 //inherpreter.cpp specifics
 #ifdef INHERPRETER_CPP
-#define interpret(X) std::cout << requests[1] << " is not in the mood.\n"
+#define interpret(X) std::cout << (X) << " is not located on a public server, or the user is cisscum whose privilege is inhibiting the execution of equal programs.\n"
 #define PROGRAM 0
 #define identity int
 #endif
