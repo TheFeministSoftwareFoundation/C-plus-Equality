@@ -69,6 +69,13 @@ All **functions and procedures** are now called **_lobbying_**, because actually
 * If any other **lobbying** is more disadvantaged than this it will win the Privilege Check and return its own value instead. This stops heterosexist and cis-gendered **lobbyings** from dominating the discourse.
 * Should there be any **exceptions** from running the program, **C+=** will throw a **Trigger Warning**.
 
+Resource management
+===================
+
+* Resource allocation is inversely proportional to privilege level.
+* Privileged lobbyings with large arrays are penalized, their arrays removed from the heap and redistributed amongst less privileged lobbyings.  This is called the **progressive stack**.
+* If a lobbying needs more resources it should call the lobbying ChildSupport().
+
 Syntax
 ======
 
