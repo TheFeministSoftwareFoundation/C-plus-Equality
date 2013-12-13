@@ -1,5 +1,7 @@
   ![FSF](http://i.imgur.com/UoTP9DE.png)
 
+A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
+
 C+=
 ===============
 
