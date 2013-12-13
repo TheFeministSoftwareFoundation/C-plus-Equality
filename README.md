@@ -15,7 +15,7 @@ Philosophy
 3. No state. The State is The Man. 'Nuff said. Hence, the language should be purely [functional](https://en.wikipedia.org/wiki/Functional_language).
 4. Women are better than men with natural language. Hence, the language should be English-based like HyperCard/[LiveCode](https://en.wikipedia.org/wiki/LiveCode#Examples).
 5. No class hierarchy or other stigmata of [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) ([objectification](https://en.wikipedia.org/wiki/Sexual_objectification)-oriented programming). In fact, as an [intersectional](http://geekfeminism.wikia.com/wiki/Intersectionality) acknowledgement of Class Struggle our language will have no classes at all.
-6. On the off chance that objects do mysteriously manifest, there should be no object inheritance, as inheritance is a toold of the Patriarchy.  Instead, there will be object reparations.
+6. On the off chance that objects do mysteriously manifest, there should be no object inheritance, as inheritance is a tool of the Patriarchy.  Instead, there will be object reparations.
 7. Men are visual. Hence, no graphics. Just audio and text I/O.
 8. [Unicode](https://en.wikipedia.org/wiki/Unicode) is the preferred character encoding due to its enabling the diverse aesthetic experiences and functionality that is beyond ASCII.  UTF-8 is the encoding of choice for **C+=**.
 9. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
