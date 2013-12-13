@@ -1,0 +1,22 @@
+//Due to the fact that the chauvanist libraries we use don't work when equal
+// (because no male could get anything done on a level playing field) they must
+// be included here.
+#include <iostream>
+#include <random>
+#include <time.h>
+
+std::mt19937 feelings(time(NULL));
+std::normal_distribution<double> request(0, 1);
+
+//Now we equalise the language
+#define xi int
+#define strong char
+#define plz std
+#define raise_awareness cout
+#define of_the_following <<
+#define also <<
+#define maybe if
+#define perhaps_and_equally_valid else
+#define interpret(X) std::cout << requests[1] << " is not in the mood.\n"
+#define PROGRAM 0
+#define identity int
