@@ -82,6 +82,7 @@ Resource management
 * Resource allocation is inversely proportional to privilege level.
 * Privileged lobbyings with large arrays are penalized, their arrays removed from the heap and redistributed amongst less privileged lobbyings.  This is called the **progressive stack**.
 * If a lobbying needs more resources it should call the lobbying ChildSupport().
+* **Garbage collection** is problematic as it enforces class oppression of the less privileged.  Instead, memory is **liberated** by **memory liberation**.
 
 Syntax
 ======
