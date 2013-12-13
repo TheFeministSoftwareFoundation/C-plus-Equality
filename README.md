@@ -110,3 +110,10 @@ Debugging
 * The word *debugging* also imples the phrase *bug chasing*, which is a strawman often used as a homophobic smear tactic.  This is highly problematic.
 * There is to be no debugging. We need to do away with functional-centric, bugphobic attitudes in programming. You need to accept the program the way it is.
 * If you ever try to debug a **C+=** program, the program steps you through the programming, makes you guess what each variable and pointer is currently set to, and throws a **Trigger Warning** if you get it wrong.
+
+File operations
+===============
+
+* In C+=, you don't write to a file. Dictating to the poor files what sort of information they must store is Patriarchal.
+* Instead, The <fileIO> library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
+* There is a non-standard library <rape> that brings in takeIt() and giveMe() that accomplish the same tasks, but with no possibility of failure.
