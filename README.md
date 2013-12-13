@@ -116,7 +116,7 @@ Logic Operants
 Debugging
 =========
 
-* There can be no bugs in this language.  To say there is is offensive.
+* There can be no bugs in this language.  To say there is, is offensive.
 * There are no bugs, only snowflakes.
 * The word *debugging* also imples the phrase *bug chasing*, which is a strawman often used as a homophobic smear tactic.  This is highly problematic.
 * There is to be no debugging. We need to do away with functional-centric, bugphobic attitudes in programming. You need to accept the program the way it is.
