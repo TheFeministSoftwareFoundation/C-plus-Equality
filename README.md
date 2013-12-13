@@ -27,7 +27,7 @@ Code Examples
 
 See our [FizzBuzz implementation](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/fizzbuzz.Xe).
 
-Inherpreter usage is as follows: ./inherpret program.Xe
+Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
 Data types and Structures
 =========================
