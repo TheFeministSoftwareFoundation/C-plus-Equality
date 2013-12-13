@@ -16,11 +16,11 @@ Philosophy
 4. Women are better than men with natural language. Hence, the language should be English-based like HyperCard/[LiveCode](https://en.wikipedia.org/wiki/LiveCode#Examples).
 5. No class hierarchy or other stigmata of [OOP](https://en.wikipedia.org/wiki/Object-oriented_programming) ([objectification](https://en.wikipedia.org/wiki/Sexual_objectification)-oriented programming). In fact, as an [intersectional](http://geekfeminism.wikia.com/wiki/Intersectionality) acknowledgement of Class Struggle our language will have no classes at all.
 6. Men are visual. Hence, no graphics. Just audio and text I/O.
-7. [Unicode](https://en.wikipedia.org/wiki/Unicode) has a lot of pretty symbols. Allow their use through UTF-8.
+7. [Unicode](https://en.wikipedia.org/wiki/Unicode) is the preferred character encoding due to its enabling the diverse aesthetic experiences that is beyond ASCII.  UTF-8 is the encoding of choice for **C+=**.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
-9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 40% chance of doing what is done in the code, 40% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().  *Math(s) don't real.*
-10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call\)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
-11. Forced program termination is not allowed unless the program consents to it.  *My process, my choice.*
+9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program rolls for a 40% chance of executing literally as the code is written, 40% of being "psychoanalytically incompatible", and 40% of executing by a metaphorical epistemology the order of the functions found in main().
+10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call\)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, regardless of the progress of the system clock.
+11. Forced program termination is not allowed unless the program consents to it.  The process is part of the choice of the program, not the programmer.
 12. Licensing: the [Feminist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/mistress/LICENSE).
 
 Code Examples
