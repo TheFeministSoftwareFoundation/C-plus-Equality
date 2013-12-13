@@ -18,7 +18,8 @@ Philosophy
 6. Men are visual. Hence, no graphics. Just audio and text I/O.
 7. Unicode has a lot of pretty symbols. Allow their use through UTF-8.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
-9. Licensing: the [Femnist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/LICENSE).
+9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 30% chance of doing what is done in the code, 30% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().
+10. Licensing: the [Femnist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/LICENSE).
 
 Code Examples
 =============
@@ -30,6 +31,8 @@ Inherpreter useage is as follows: ./inherpret program.Xe
 Data types
 ==========
 
+* Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilized.  This preserves the variable's right to self-identify as any datatype it feels that it is.
+* Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
 * **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
 * The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE which is set to infinity.
 
