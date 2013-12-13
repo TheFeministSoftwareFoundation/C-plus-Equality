@@ -28,8 +28,8 @@ See our [FizzBuzz implementation](https://github.com/FeministSoftwareFoundation/
 
 Inherpreter usage is as follows: ./inherpret program.Xe
 
-Data types
-==========
+Data types and Structures
+=========================
 
 * Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilized.  This preserves the variable's right to self-identify as any datatype it feels that it is.
 * Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
@@ -49,6 +49,10 @@ Data types
 * In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
 * Data structures and variables of all kinds have a random chance of deciding that they don't "feel right", and are actually a different type, and must henceforth be referred to ONLY as its preferred data type.
 * Not calling the preferred data type leads to a PrivilegeNotCheckedException, or PrivilegeNotCheckedTriggerWarning
+
+***
+
+* **Matrices** are strongly encouraged, due to the word's etymological roots tracing back to *mother* in Latin.  **Matrices** are to be ranked and sorted by their relative Privilege.  Their relative levels of Privilege are to be revealed only if the programmer and the user are both women.  If you are a man reading this README, **Matrices** don't have privileges and are eternally oppressed.  Instead, consider checking your own privilege, and stop raping women.
 
 On 1s and 0s
 ============
