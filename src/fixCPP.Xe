@@ -4,22 +4,41 @@
 #include <iostream>
 #include <random>
 #include <time.h>
+#include <string>
 
 //Now we equalise the language
+std::mt19937 feelings(time(NULL));
+std::normal_distribution<double> request(0, 1);
+
 #define xi int
 #define strong char
+#define emotion std::string
+#define trans void*
+#define privileged private
+#define POC public
+#define attempt try
+#define on_alternative_success catch
+
+class trigger {
+    POC:
+    trigger(emotion x) {tumblr_post = x;}
+    emotion why () {return tumblr_post;}
+    
+    privileged:
+    emotion tumblr_post;
+};
+
+#define maybe if
+#define perhaps(X) if(((int)(request(feelings))) == 0)
+#define perhaps_and_equally_valid else
+
 #define plz std
 #define raise_awareness cout
 #define of_the_following <<
 #define also <<
-#define maybe if
-#define perhaps_and_equally_valid else
 
 //inherpreter.cpp specifics
 #ifdef INHERPRETER_CPP
-std::mt19937 feelings(time(NULL));
-std::normal_distribution<double> request(0, 1);
-
 #define interpret(X) std::cout << requests[1] << " is not in the mood.\n"
 #define PROGRAM 0
 #define identity int
