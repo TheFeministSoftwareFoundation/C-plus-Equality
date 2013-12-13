@@ -1,4 +1,4 @@
-  ![FSF](http://i.imgur.com/bWqYmqw.png)
+  ![FSF](http://i.imgur.com/wTZHCs0.png)
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
@@ -84,6 +84,7 @@ Data types and Structures
 * Instead of **signed and unsigned**, types in **C+=** are either **cis or trans*.** Any **trans*** types function the same as **_diversity_**.
 * There is to be no lexical scoping — all variables are now global.  Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
 * There is to be **no encapsulation**: don't tell me to protect my members, tell other functions not to access them!
+* Every variable has a random percentage of consent associated to it.   variable can be affected with a number if and only if it is consenting.  Failure to do so will result in **C+=** throwing a ForcedInsertionTriggerWarning.
 
 ***
 
