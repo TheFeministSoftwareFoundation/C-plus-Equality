@@ -29,8 +29,10 @@ Data types
 * **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
 * **Characters** are now called **_strong_**.
 * **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
-* In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
 * A new data type, **_diversity_**, is also included, which initiates by random as one of the many data types, and changes during the course of the program.
+* In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
+* Data structures and variables of all kinds have a random chance of deciding that they don't "feel right", and are actually a different type, and must henceforth be referred to ONLY as its preferred data type.
+* Not calling the preferred data type leads to a PrivilegeNotCheckedException, or PrivilegeNotCheckedTriggerWarning
 
 On 1s and 0s
 ============
