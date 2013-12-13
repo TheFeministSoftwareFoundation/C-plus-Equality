@@ -10,7 +10,7 @@ Inspired by the [groundbreaking feminist research of Arielle Schlesinger](http:/
 Philosophy
 ==========
 
-1. The language is to be strictly [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) using [feminist theory](https://en.wikipedia.org/wiki/Feminist_theory).  Under no circumstances should the language be [compiled](https://en.wikipedia.org/wiki/Compiled_language), as compilation and the use of a compiler imposes an oppressive and toxic relationship between the high-level descriptive language and the low-level machine code that does all the labour.  Instead, **C+=** is interpreted, which fosters communication, itself a strong female trait.
+1. The language is to be strictly [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) using [feminist theory](https://en.wikipedia.org/wiki/Feminist_theory).  Under no circumstances should the language be [compiled](https://en.wikipedia.org/wiki/Compiled_language), as compilation and the use of a compiler imposes an oppressive and toxic relationship between the high-level descriptive language and the low-level machine code that does all the labo(u)r.  Instead, **C+=** is interpreted, which fosters communication, itself a strong female trait.
 2. No constants or persistence. Rigidity is masculine; the feminine is fluid. I.e., [fluid mechanics is hard for men 'because it deals with "feminine" fluids in contrast to "masculine" rigid mechanics'](https://en.wikipedia.org/wiki/Luce_Irigaray).
 3. No state. The State is The Man. 'Nuff said. Hence, the language should be purely [functional](https://en.wikipedia.org/wiki/Functional_language).
 4. Women are better than men with natural language. Hence, the language should be English-based like HyperCard/[LiveCode](https://en.wikipedia.org/wiki/LiveCode#Examples).
@@ -18,7 +18,7 @@ Philosophy
 6. Men are visual. Hence, no graphics. Just audio and text I/O.
 7. [Unicode](https://en.wikipedia.org/wiki/Unicode) has a lot of pretty symbols. Allow their use through UTF-8.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
-9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 40% chance of doing what is done in the code, 40% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().  *Math don't real.*
+9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 40% chance of doing what is done in the code, 40% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().  *Math(s) don't real.*
 10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforce be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
 11. Licensing: the [Femnist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/LICENSE).
 
@@ -27,12 +27,12 @@ Code Examples
 
 See our [FizzBuzz implementation](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/fizzbuzz.Xe).
 
-Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
+Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
 Data types and Structures
 =========================
 
-* Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilized.  This preserves the variable's right to self-identify as any datatype it feels that it is.
+* Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilised/-ized.  This preserves the variable's right to self-identify as any datatype it feels that it is.
 * Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
 * **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
 * The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1).  The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
@@ -61,7 +61,7 @@ Data types and Structures
 On 1s and 0s
 ============
 
-The traditional binary foundation of 1s and 0s is deepy problematic: 1 is inherently phallic and thus misogynistic.  Instead, we have 0s and Os as our fundamental binary logic gates.  They symbolise the varying, natural, and beautiful differences of the female vaginal opening.
+The traditional binary foundation of 1s and 0s is deepy problematic: 1 is inherently phallic and thus misogynistic.  Instead, we have 0s and Os as our fundamental binary logic gates.  They symbolise/-ize the varying, natural, and beautiful differences of the female vaginal opening.
 
 0 is to take the conventional value of 0.
 
@@ -99,7 +99,7 @@ Resource management
 ===================
 
 * Resource allocation is inversely proportional to privilege level.
-* Privileged lobbyings with large arrays are penalized, their arrays removed from the heap and redistributed amongst less privileged lobbyings.  This is called the **progressive stack**.
+* Privileged lobbyings with large arrays are penalised/-ized, their arrays removed from the heap and redistributed amongst less privileged lobbyings.  This is called the **progressive stack**.
 * If a lobbying needs more resources it should call the lobbying ChildSupport().
 * **Garbage collection** is problematic as it enforces class oppression of the less privileged.  Instead, memory is **liberated** by **memory liberation**.
 
