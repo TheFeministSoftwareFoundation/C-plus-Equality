@@ -58,6 +58,8 @@ Anything that can be construed as misogynist will be corrected, thus:
 
 The third example above might seem to contradict with item 4 under Philosophy, namely that there should be no class hierarchy in **C+=**.  This, however, is completely intended, and is in fact an example of the feminist paralogicality of this language.
 
+Every program needs to be prefixed by, in addition to the license, a disclaimer: "If this program fails to operate, it is due the Patriarchy backfiring upon itself, and no refunds will be issued."
+
 Functions and Procedures
 ========================
 
