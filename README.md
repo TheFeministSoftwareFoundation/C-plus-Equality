@@ -23,6 +23,11 @@ Philosophy
 Data types
 ==========
 
+* **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
+* The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE which is set to infinity.
+
+***
+
 * **Integers, doubles, and longs** are deemed to be unnecessary labels and stereotypes for numerical values.  A number can be an integer or a a double or a long if xir so identifies xirself.  All numerical values will thus be represented as **_xe_**, and it is up to the value xirself to choose to identify as whatever xir chooses to identify as.
 * **Booleans** are __benned__ for imposing a binary view of true and false.  **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic.  **No means no, and yes could mean no as well.  Stop raping women.**
 * Instead of **Booleans** we now have **Boolean+**, or **_bool+_** for short, which has three states: *true, false, and maybe*.  The number of states may go up as intersectionality of the moment calls for such a need.
