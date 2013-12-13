@@ -3,7 +3,7 @@
 C+=
 ===============
 
-**C+=** (pronounced *C-plus-Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
+**C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
 Inspired by the [groundbreaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
@@ -28,6 +28,7 @@ Data types
 * Instead of **Booleans** we now have **Boolean+**, or **_bool+_** for short, which has three states: *true, false, and maybe*.  The number of states may go up as intersectionality of the moment calls for such a need.
 * **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
 * **Characters** are now called **_strong_**.
+* **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
 * In general, all data types are dynamic.  Who's to say a number can't be a string if it believes it is?
 
 Basic language style
@@ -37,11 +38,21 @@ Anything that can be construed as misogynist will be corrected, thus:
 
 * private == privileged
 * printf(); == yell();
-* class Foo{}; == concept Foo{};
+* class Foo{}; == social_construct Foo{};
 * #include == #consider
 * break; == leave;
 * if() == check()
+* for() == check()
+* while() == check()
+* sin(x) == biotruth(x)
 
 The third example above might seem to contradict with item 4 under Philosophy, namely that there should be no class hierarchy in **C+=**.  This, however, is completely intended, and is in fact an example of the feminist paralogicality of this language.
 
+Functions and Procedures
+========================
+
+All **functions and procedures** are now called **_lobbying_**, because actually doing things functionally and with clear-defined procedures is a Patriarchal construct and thus problematic.
+
+* All lobbying must be run at the right level of privilege. Before returning anything they must check their privilege.
+* If any other lobbying is more disadvantaged than this it will win the Privilege Check and return its own value instead. This stops heterosexist and cis-gendered lobbyings from dominating the discourse.
 
