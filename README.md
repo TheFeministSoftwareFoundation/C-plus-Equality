@@ -19,13 +19,14 @@ Philosophy
 7. [Unicode](https://en.wikipedia.org/wiki/Unicode) has a lot of pretty symbols. Allow their use through UTF-8.
 8. Women are more social than men. Hence, social coding should be the only option. The code only runs if it is in a public repo.
 9. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program has a 40% chance of doing what is done in the code, 40% of "not in the mood" (i.e. nothing occurs), and 40% of randomly reorganising the execution order of the functions found in main().  *Math(s) don't real.*
-10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
-11. Licensing: the [Feminist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/LICENSE).
+10. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call\)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, even after the "birthing" of the program.
+11. Forced program termination is not allowed unless the program consents to it.  *My process, my choice.*
+12. Licensing: the [Feminist Software Foundation License](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/mistress/LICENSE).
 
 Code Examples
 =============
 
-See our [FizzBuzz implementation](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/fizzbuzz.Xe).
+See our [FizzBuzz implementation](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/mistress/fizzbuzz.Xe).  Also, [Diamonds](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/mistress/diamonds.Xe).
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
@@ -82,6 +83,8 @@ Data types and Structures
 * **Integers, doubles, and longs** are deemed to be unnecessary labels and stereotypes for numerical values.  A number can be an integer or a a double or a long if xir so identifies xirself.  All numerical values will thus be represented as **_xe_**, and it is up to the value xirself to choose to identify as whatever xir chooses to identify as.
 * **Booleans** are __banned__ for imposing a binary view of true and false.  **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic.  **No means no, and yes could mean no as well.  Stop raping women.**
 * Instead of **Booleans** we now have **Boolean+**, or **_bool+_** for short, which has three states: *true, false, and maybe*.  The number of states may go up as intersectionality of the moment calls for such a need.
+* To illustrate the relationship between **Booleans** and **Boolean+**, consider the following flowchart:
+![BooleanPlus](http://i.imgur.com/elpljBY.png)
 * **Strings** are called **Ideals**, or **_id_** for short.  Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
 * **Characters** are now called **_strong_**.
 * **Pointers** are called **preferred pronouns**, or **_prepro_** for short.  *Pointer* is phallic and is thus problematic.  All **_prepro_**s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
@@ -108,6 +111,7 @@ Syntax
 
 * Curly brackets are not allowed, as they perpetuate our society's stereotype of the 'curly' women.  Instead, Python-esque indentation is used.
 * Indentation is fluid.  Both spaces and tabs are allowed.  At no point should the programmer attempt to use indentation to create actual hierarchy in code nesting, as that implies hierarchy in the code.  Instead, code indentation is used only for aesthetic purposes.
+* Line terminators should not be used.  Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers. 
 
 Logic Operants
 --------------

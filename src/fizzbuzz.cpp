@@ -1,4 +1,8 @@
 //compile with: g++ -std=c++11 fizzbuzz.cpp -o fizzbuzz
+//Here we see the ego of X being raised (by continued liking) until it feels
+//    itself more attractive than 101, at which point it loses all respect and
+//    honor for 101. This typical example of femminine social dynamics should
+//    go towards setting the standard for C+= programs.
 #define FIZZBUZZ_CPP
 #include "fixCPP.Xe"
 
