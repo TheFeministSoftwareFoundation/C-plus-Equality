@@ -25,6 +25,8 @@ Code Examples
 
 See our [FizzBuzz implementation](https://github.com/FeministSoftwareFoundation/C-plus-Equality/blob/master/fizzbuzz.She).
 
+Inherpreter useage is as follows: ./inherpret program.Xe
+
 Data types
 ==========
 
