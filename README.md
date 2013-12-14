@@ -11,6 +11,8 @@ C+=
 
 **C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
+**Note: This is a programming language for FEMINISTS, not for WOMEN.  LEARN THE DIFFERENCE, MISOGYNIST!**
+
 
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
