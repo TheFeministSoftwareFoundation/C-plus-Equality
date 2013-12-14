@@ -74,17 +74,17 @@ xe womain (xe RequestCount, strong *RequestList[]) {
 
         check(ThePlaceBetween envelops(present(3))) {
             yell(present("Fizz"));
-        }
+        ENDMISOGYNY
         recheck(ThePlaceBetween envelops(present(5))) {
             yell(present("Buzz"));
-        }
+        ENDMISOGYNY
         unpack {
             // strength & independence!
             yell(present(ThePlaceBetween));
-        };
+        ENDMISOGYNY;
 
         yell(present("\n"));
-    };
+    ENDMISOGYNY;
 
     present(Satisfaction);
-};
+ENDMISOGYNY;
