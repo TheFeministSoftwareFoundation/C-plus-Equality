@@ -1,5 +1,5 @@
-  ![FSF](http://i.imgur.com/3aEK2Vp.png)
-
+  ![FSF](http://i.imgur.com/ZhTU8r3.png)
+  ![C-plus-Equality](http://i.imgur.com/3aEK2Vp.png)
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
@@ -7,7 +7,7 @@ A project of the [Feminist Software Foundation](http://feministsoftwarefoundatio
 Now hosted on BitBucket, as **[GitHub proves to be too misogynistic to support a feminist programming language](https://github.com/FeministSoftwareFoundation/C-plus-Equality)**.
 
 C+=
-===============
+===============+
 
 **C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
@@ -16,7 +16,7 @@ C+=
 
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
-Our IRC: #cplusequality@irc://irc.hackint.org
+Our IRC: #cplusequality@irc://chat.freenode.net
 
 Philosophy
 ==========
@@ -43,6 +43,7 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 * [Hello, Feminists!](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/hellofeminists.Xe)
 * [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe)
 * [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe)
+* [Sieve](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/sieve.Xe)
 
 We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
 
