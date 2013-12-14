@@ -1,5 +1,5 @@
   ![FSF](http://i.imgur.com/ZhTU8r3.png)
-  ![C-plus-Equality](http://i.imgur.com/3aEK2Vp.png)
+  ![C-plus-Equality](http://i.imgur.com/Ygq1Pch.png)
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
