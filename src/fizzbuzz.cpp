@@ -6,7 +6,7 @@
 #define FIZZBUZZ_CPP
 #include "fixCPP.Xe"
 
-xi main (xi requestCount, strong** requests) {
+xi womain (xi requestCount, strong** requests) {
     attempt {
         xi x;
         pretend_is(x,0);
