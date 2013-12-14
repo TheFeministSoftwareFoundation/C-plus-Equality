@@ -16,6 +16,8 @@ C+=
 
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
+Our IRC: #cplusequality@irc://irc.hackint.org
+
 Philosophy
 ==========
 
