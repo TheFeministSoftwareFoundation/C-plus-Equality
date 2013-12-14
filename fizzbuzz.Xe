@@ -1,17 +1,17 @@
-/* -*- mode: She; file: fizzbuzz.She -*-
+/* -*- mode: Xe; file: fizzbuzz.Xe -*-
  * 
  * Toward the destruction of the techbro kyriarchy: a feminist
  * reclamation of "Fizz Buzz"
  *
- * @language: She 0.1-pre-alpha
+ * @language: Xe 0.1-pre-alpha
  * https://github.com/FeministSoftwareFoundation/C-plus-Equality
  *
  * notes of interest:
  * 
- * - C+= considered phallic; replaced with (and pronounced) "She",
- *    source files have extension ".She"
+ * - C+= considered phallic; replaced with (and pronounced) "Xe",
+ *    source files have extension ".Xe"
  *
- * - header files are known as headHer files, with extension .Her
+ * - header files are known as headHer files, with extension .Xir
  *
  * - masculinist/dualist concept of "booleanism" removed entirely; use
  *    present() (see below; this also supersedes the officious
@@ -48,7 +48,7 @@
  * 
  */ 
 
-#consider <FEMINIST_RAGE.Her>
+#consider <FEMINIST_RAGE.Xir>
 
 // TODO replace main() as Progrym entry point; "structured
 // programming" is classist oppression
