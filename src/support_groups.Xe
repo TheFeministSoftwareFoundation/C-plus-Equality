@@ -21,7 +21,7 @@ support_group femBool {
         perhaps_and_equally_valid maybe (feels >=0.95)
             value = 'm';
         
-        perhaps_and_equally_valid maybe (value == 'O')
+        maybe (value == 'O')
             return true;
         perhaps_and_equally_valid maybe (value == '0')
             return false;
