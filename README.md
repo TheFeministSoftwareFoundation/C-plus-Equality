@@ -44,9 +44,9 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 
 We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
 
-Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
-
  ![Inherpreter](http://i.imgur.com/kMij1At.png)
+
+Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
 On 1s and 0s
 ============
