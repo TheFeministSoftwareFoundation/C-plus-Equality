@@ -145,9 +145,9 @@ Syntax
 
 * Curly brackets are not allowed, as they perpetuate our society's stereotype of the 'curly' women.  Instead, Python-esque indentation is used.
 * Indentation is fluid.  Both spaces and tabs are allowed.  At no point should the programmer attempt to use indentation to create actual hierarchy in code nesting, as that implies hierarchy in the code.  Instead, code indentation is used only for aesthetic purposes.
-* An [*alternative syntax*](http://php.net/alternative_syntax) is encouraged.
+* In order to eliminate curly brackets and enforce fluidity of indentation, implementation of php's [**alternative** syntax for control structures](http://php.net/alternative_syntax) is encouraged.
+* To turn the patriarchal control structures into liberation statements, every structure terminator (like *endif*, *endforeach* and *endswitch*) should be replaced with **endmisoginy**.
 * Line terminators should not be used.  Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers. 
-* Instead of using 'endif', 'endforeach', 'endswitch' and the like, 'endmisoginy' should be used to close every control structure - thus turning the patriarchal control structure into a liberation statement.
 
 Logic Operants
 --------------
