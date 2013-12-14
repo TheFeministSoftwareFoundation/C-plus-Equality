@@ -1,18 +1,5 @@
-<div id="logo_containter">
-  <img />
   ![FSF](http://i.imgur.com/ZhTU8r3.png)
   ![C-plus-Equality](http://i.imgur.com/3aEK2Vp.png)
-</div>
-
-#logo_container {
-    height:100px;
-    line-height:100px;
-}
-
-#logo_container img {
-    vertical-align:middle;
-    max-height:100%;
-}
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
