@@ -177,3 +177,4 @@ File operations
 * In C+=, you don't write to a file. Dictating to the poor files what sort of information they must store is Patriarchal.
 * Instead, The \<fileIO> library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
 
+
