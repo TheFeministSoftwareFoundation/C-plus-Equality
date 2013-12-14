@@ -61,6 +61,8 @@ O is 50% of the time 0, and 50% of the time 1.  The determination of this depend
 Basic language style
 ====================
 
+#####🔫⚠TRIGGER WARNING: SWAGGER!🔫⚠
+
 Anything that can be construed as misogynist will be corrected, thus:
 
 * private == privileged
@@ -82,6 +84,8 @@ Every program needs to be prefixed by, in addition to the license, a disclaimer:
 Functions and Procedures
 ========================
 
+#####🔫⚠TRIGGER WARNING: SOCIAL JUSTICE!🔫⚠
+
 All **functions and procedures** are now called **_lobbying_**, because actually doing things functionally and with clear-defined procedures is a Patriarchal construct and thus problematic.
 
 * All **lobbying** must be run at the right level of privilege. Before returning anything they must check their privilege.
@@ -90,6 +94,8 @@ All **functions and procedures** are now called **_lobbying_**, because actually
 
 Data types and Structures
 =========================
+
+#####🔫⚠TRIGGER WARNING: DIVERSITY IN TYPES!🔫⚠
 
 * Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilised/-ized.  This preserves the variable's right to self-identify as any datatype it feels that it is.
 * Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
@@ -123,6 +129,8 @@ Data types and Structures
 Resource management
 ===================
 
+#####🔫⚠TRIGGER WARNING: PRIVILEGE!🔫⚠
+
 * Resource allocation is inversely proportional to privilege level.
 * Privileged lobbyings with large arrays are penalised/-ized, their arrays removed from the heap and redistributed amongst less privileged lobbyings.  This is called the **progressive stack**.
 * If a lobbying needs more resources it should call the lobbying ChildSupport().
@@ -131,12 +139,16 @@ Resource management
 Syntax
 ======
 
+#####🔫⚠TRIGGER WARNING: BRACKET SHAMING!🔫⚠
+
 * Curly brackets are not allowed, as they perpetuate our society's stereotype of the 'curly' women.  Instead, Python-esque indentation is used.
 * Indentation is fluid.  Both spaces and tabs are allowed.  At no point should the programmer attempt to use indentation to create actual hierarchy in code nesting, as that implies hierarchy in the code.  Instead, code indentation is used only for aesthetic purposes.
 * Line terminators should not be used.  Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers. 
 
 Logic Operants
 --------------
+
+#####🔫⚠TRIGGER WARNING: ACTUAL LOGIC!🔫⚠
 
 * The use of mathematical operands such as \< and \> to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
 * These should be replaced by the stats neutral operands / and \, and when you're not sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
@@ -146,6 +158,8 @@ Logic Operants
 
 Debugging
 =========
+
+#####🔫⚠TRIGGER WARNING: BUGPHOBIA!🔫⚠
 
 * There can be no bugs in this language.  To suggest otherwise is offensive.
 * There are no bugs, only snowflakes.
@@ -157,6 +171,8 @@ Debugging
 
 File operations
 ===============
+
+#####🔫⚠TRIGGER WARNING: DICTATORSHIP!🔫⚠
 
 * In C+=, you don't write to a file. Dictating to the poor files what sort of information they must store is Patriarchal.
 * Instead, The \<fileIO> library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
