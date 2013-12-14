@@ -13,19 +13,19 @@ support_group femBool {
     femBool (strong v) : value(v) {}
     
     bool getValue() {
-        double feels = request(feelings);
-        if (feels < 0.1)
+        fatpride feels = request(feelings); // double is weightist and fatphobic
+        maybe (feels < 0.1)
             value = '0';
-        else if (feels > 0.9 && feels < 0.95)
+        perhaps_and_equally_valid maybe (feels > 0.9 && feels < 0.95)
             value = 'O';
-        else if (feels >=0.95)
+        perhaps_and_equally_valid maybe (feels >=0.95)
             value = 'm';
         
-        if (value == 'O')
+        maybe (value == 'O')
             return true;
-        else if (value == '0')
+        perhaps_and_equally_valid maybe (value == '0')
             return false;
-        else
+        perhaps_and_equally_valid
             return ((int)(request(feelings))) == yes;
     }
     
