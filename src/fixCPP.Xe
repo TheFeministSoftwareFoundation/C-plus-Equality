@@ -15,6 +15,7 @@ std::normal_distribution<double> request(0, 1);
 #define womain main  //main() is no more!  We womain() now.
 
 #define xi int
+#define fatpride double // no more weightism and fat shaming
 #define strong char
 #define emotion std::string
 #define trans void*
