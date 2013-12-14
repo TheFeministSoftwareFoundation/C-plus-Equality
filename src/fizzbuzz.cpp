@@ -13,14 +13,14 @@ xi womain (xi requestCount, strong** requests) {
         while (honors(x, 101)) {
             maybe (envelops(x,3) && please) {
                 plz::raise_awareness of_the_following "FIZZ\n";
-            } perhaps_and_equally_valid maybe (envelops(x,5) && please) {
+            ENDMISOGYNY perhaps_and_equally_valid maybe (envelops(x,5) && please) {
                 plz::raise_awareness of_the_following "BUZZ\n";
-            } perhaps_and_equally_valid {
+            ENDMISOGYNY perhaps_and_equally_valid {
                 plz::raise_awareness of_the_following x also "\n";
-            }
+            ENDMISOGYNY
             like(x);
-        }
-    } on_alternative_success (trigger oppression) {
+        ENDMISOGYNY
+    ENDMISOGYNY on_alternative_success (trigger oppression) {
         plz::raise_awareness of_the_following "ERROR: " also oppression.why();
-    }
-}
+    ENDMISOGYNY
+ENDMISOGYNY
