@@ -34,7 +34,11 @@ Philosophy
 Code Examples
 =============
 
-See our [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe).  Also, [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe).
+The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and may be, if we have the time, a kernel). For the time being, here are our code examples:
+
+* [Hello, World!](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/helloworld.Xe)
+* [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe)
+* [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe)
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
