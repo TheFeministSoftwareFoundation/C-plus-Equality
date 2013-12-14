@@ -1,6 +1,12 @@
+#####🔫⚠TRIGGER WARNING: LOGO!🔫⚠
+
   ![FSF](http://i.imgur.com/wTZHCs0.png)
 
+#####🔫⚠TRIGGER WARNING: PREAMBLE!🔫⚠
+
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
+
+#####🔫⚠TRIGGER WARNING: OPPRESSION!🔫⚠
 
 Now hosted on BitBucket, as GitHub proves to be too misogynistic to support a feminist programming language.
 
@@ -9,10 +15,14 @@ C+=
 
 **C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
+#####🔫⚠TRIGGER WARNING: CITATION!🔫⚠
+
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
 Philosophy
 ==========
+
+#####🔫⚠TRIGGER WARNING: WORDS!🔫⚠
 
 1. The language is to be strictly [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) using [feminist theory](https://en.wikipedia.org/wiki/Feminist_theory).  Under no circumstances should the language be [compiled](https://en.wikipedia.org/wiki/Compiled_language), as compilation and the use of a compiler imposes an oppressive and toxic relationship between the high-level descriptive language and the low-level machine code that does all the labo(u)r.  Instead, **C+=** is interpreted, which fosters communication, itself a strong female trait.
 2. No constants or persistence. Rigidity is masculine; the feminine is fluid. I.e., [fluid mechanics is hard for men 'because it deals with "feminine" fluids in contrast to "masculine" rigid mechanics'](https://en.wikipedia.org/wiki/Luce_Irigaray).
@@ -31,12 +41,16 @@ Philosophy
 Code Examples
 =============
 
+#####🔫⚠TRIGGER WARNING: ACTUAL CODE!🔫⚠
+
 See our [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/3384aa8cfbc6c82f4b09c64a8bcd6684a21a3a6d/fizzbuzz.Xe?at=mistress).  Also, [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/3384aa8cfbc6/diamonds.Xe?at=mistress).
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
 On 1s and 0s
 ============
+
+#####🔫⚠TRIGGER WARNING: PHALLIC OPPRESSION!🔫⚠
 
 The traditional binary foundation of 1s and 0s is deeply problematic: 1 is inherently phallic and thus misogynistic.  Also, some 1s are 0s, and some 0s are 1s.  It is not fair to give them immutable labels.  Instead, we have 0s and Os as our fundamental binary logic gates.  They symbolise/-ize the varying, natural, and beautiful differences of the female vaginal opening.
 
