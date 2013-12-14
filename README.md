@@ -7,7 +7,7 @@ A project of the [Feminist Software Foundation](http://feministsoftwarefoundatio
 Now hosted on BitBucket, as **[GitHub proves to be too misogynistic to support a feminist programming language](https://github.com/FeministSoftwareFoundation/C-plus-Equality)**.
 
 C+=
-===============
+===============+
 
 **C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
