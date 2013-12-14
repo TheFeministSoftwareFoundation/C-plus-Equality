@@ -37,14 +37,14 @@ Philosophy
 10. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth".  After birth, a program rolls for a 40% chance of executing literally as the code is written, 40% of being "psychoanalytically incompatible", and 40% of executing by a metaphorical epistemology the order of the functions found in main().
 11. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call\)), as the word has clear misogynistic tendencies and is deeply problematic.  Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission.  "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, regardless of the progress of the system clock.
 12. Forced program termination is not allowed unless the program consents to it.  The process is part of the choice of the program, not the programmer.
-13. Licensing: the [Feminist Software Foundation License](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/3384aa8cfbc6c82f4b09c64a8bcd6684a21a3a6d/LICENSE?at=mistress).
+13. Licensing: the [Feminist Software Foundation License](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/LICENSE).
 
 Code Examples
 =============
 
 #####🔫⚠TRIGGER WARNING: ACTUAL CODE!🔫⚠
 
-See our [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/3384aa8cfbc6c82f4b09c64a8bcd6684a21a3a6d/fizzbuzz.Xe?at=mistress).  Also, [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/3384aa8cfbc6/diamonds.Xe?at=mistress).
+See our [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe).  Also, [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe).
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
