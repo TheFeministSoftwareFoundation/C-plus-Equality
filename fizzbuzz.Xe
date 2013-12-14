@@ -57,6 +57,8 @@
 // NB one does not argue with C+= Progryms; one makes requests, which
 // the Progrym is free to consider or ignore as she pleases
 xe womain (xe RequestCount, strong *RequestList[]) {
+    //Always check your privilege
+    CheckPrivilege();
     // NB typically patriarchal fizzbuzz enshrines socially
     // constructed limits as immutable fact; here we expose this
     // subtle mental tyranny for what it truly is
