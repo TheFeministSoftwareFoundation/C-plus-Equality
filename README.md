@@ -1,13 +1,8 @@
-#####🔫⚠TRIGGER WARNING: LOGO!🔫⚠
-#####🔫⚠TRIGGER WARNING: PRIVILEGE TO RENDER PROPERLY THE UNICODE SYMBOLS OF A PISTOL AND A WARNING SIGN!🔫⚠
-
   ![FSF](http://i.imgur.com/wTZHCs0.png)
 
-#####🔫⚠TRIGGER WARNING: PREAMBLE!🔫⚠
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
-#####🔫⚠TRIGGER WARNING: OPPRESSION!🔫⚠
 
 Now hosted on BitBucket, as GitHub proves to be too misogynistic to support a feminist programming language.
 
@@ -16,14 +11,11 @@ C+=
 
 **C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
-#####🔫⚠TRIGGER WARNING: CITATION!🔫⚠
 
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
 Philosophy
 ==========
-
-#####🔫⚠TRIGGER WARNING: WORDS!🔫⚠
 
 1. The language is to be strictly [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) using [feminist theory](https://en.wikipedia.org/wiki/Feminist_theory).  Under no circumstances should the language be [compiled](https://en.wikipedia.org/wiki/Compiled_language), as compilation and the use of a compiler imposes an oppressive and toxic relationship between the high-level descriptive language and the low-level machine code that does all the labo(u)r.  Instead, **C+=** is interpreted, which fosters communication, itself a strong female trait.
 2. No constants or persistence. Rigidity is masculine; the feminine is fluid. I.e., [fluid mechanics is hard for men 'because it deals with "feminine" fluids in contrast to "masculine" rigid mechanics'](https://en.wikipedia.org/wiki/Luce_Irigaray).
@@ -42,16 +34,12 @@ Philosophy
 Code Examples
 =============
 
-#####🔫⚠TRIGGER WARNING: ACTUAL CODE!🔫⚠
-
 See our [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe).  Also, [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe).
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
 On 1s and 0s
 ============
-
-#####🔫⚠TRIGGER WARNING: PHALLIC OPPRESSION!🔫⚠
 
 The traditional binary foundation of 1s and 0s is deeply problematic: 1 is inherently phallic and thus misogynistic.  Also, some 1s are 0s, and some 0s are 1s.  It is not fair to give them immutable labels.  Instead, we have 0s and Os as our fundamental binary logic gates.  They symbolise/-ize the varying, natural, and beautiful differences of the female vaginal opening.
 
@@ -61,8 +49,6 @@ O is 50% of the time 0, and 50% of the time 1.  The determination of this depend
 
 Basic language style
 ====================
-
-#####🔫⚠TRIGGER WARNING: SWAGGER!🔫⚠
 
 Anything that can be construed as misogynist will be corrected, thus:
 
@@ -85,8 +71,6 @@ Every program needs to be prefixed by, in addition to the license, a disclaimer:
 Functions and Procedures
 ========================
 
-#####🔫⚠TRIGGER WARNING: SOCIAL JUSTICE!🔫⚠
-
 All **functions and procedures** are now called **_lobbying_**, because actually doing things functionally and with clear-defined procedures is a Patriarchal construct and thus problematic.
 
 * All **lobbying** must be run at the right level of privilege. Before returning anything they must check their privilege.
@@ -106,8 +90,6 @@ Gotos and Control Structures
 
 Data types and Structures
 =========================
-
-#####🔫⚠TRIGGER WARNING: DIVERSITY IN TYPES!🔫⚠
 
 * Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilised/-ized.  This preserves the variable's right to self-identify as any datatype it feels that it is.
 * Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
@@ -141,8 +123,6 @@ Data types and Structures
 Resource management
 ===================
 
-#####🔫⚠TRIGGER WARNING: PRIVILEGE!🔫⚠
-
 * Resource allocation is inversely proportional to privilege level.
 * Privileged lobbyings with large arrays are penalised/-ized, their arrays removed from the heap and redistributed amongst less privileged lobbyings.  This is called the **progressive stack**.
 * If a lobbying needs more resources it should call the lobbying ChildSupport().
@@ -151,16 +131,12 @@ Resource management
 Syntax
 ======
 
-#####🔫⚠TRIGGER WARNING: BRACKET SHAMING!🔫⚠
-
 * Curly brackets are not allowed, as they perpetuate our society's stereotype of the 'curly' women.  Instead, Python-esque indentation is used.
 * Indentation is fluid.  Both spaces and tabs are allowed.  At no point should the programmer attempt to use indentation to create actual hierarchy in code nesting, as that implies hierarchy in the code.  Instead, code indentation is used only for aesthetic purposes.
 * Line terminators should not be used.  Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers. 
 
 Logic Operants
 --------------
-
-#####🔫⚠TRIGGER WARNING: ACTUAL LOGIC!🔫⚠
 
 * The use of mathematical operands such as \< and \> to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
 * These should be replaced by the stats neutral operands / and \, and when you're not sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
@@ -170,8 +146,6 @@ Logic Operants
 
 Debugging
 =========
-
-#####🔫⚠TRIGGER WARNING: BUGPHOBIA!🔫⚠
 
 * There can be no bugs in this language.  To suggest otherwise is offensive.
 * There are no bugs, only snowflakes.
@@ -183,8 +157,6 @@ Debugging
 
 File operations
 ===============
-
-#####🔫⚠TRIGGER WARNING: DICTATORSHIP!🔫⚠
 
 * In C+=, you don't write to a file. Dictating to the poor files what sort of information they must store is Patriarchal.
 * Instead, The \<fileIO> library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
