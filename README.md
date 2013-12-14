@@ -52,7 +52,7 @@ Anything that can be construed as misogynist will be corrected, thus:
 * private == privileged
 * printf(); == yell();
 * class Foo{}; == social_construct Foo{};
-* #include == #consider
+* \#include == #consider
 * break; == leave;
 * if() == check()
 * for() == check()
