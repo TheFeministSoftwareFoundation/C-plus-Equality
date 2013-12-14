@@ -93,6 +93,17 @@ All **functions and procedures** are now called **_lobbying_**, because actually
 * If any other **lobbying** is more disadvantaged than this it will win the Privilege Check and return its own value instead. This stops heterosexist and cis-gendered **lobbyings** from dominating the discourse.
 * Should there be any **exceptions** from running the program, **C+=** will throw a **Trigger Warning**.
 
+Gotos and Control Structures
+============================
+
+* **Control structures** are abolished. Code may flow freely and choose its own path. Therefore check() is merely a guideline and the code flow is free to choose to consider its suggestions.
+
+* This language endorses the use of **consider_jump**, which is a proper implementation of the oppressive *"goto"* and serves as advice on what to do next.
+
+* **Catch** shall not be used. Someone's raise of concern can too easily be censored with an empty catch block. Instead, **complaints** or trigger warnings are puplicly logged with their traces and may be handled with an inspect block. The use of *nothrow* poses a threat to free speech as someone's attempt to make his voice heard will be punished with termination.
+
+* There is no need for exit(), terminate() or atexit() as a feminist's work is never done.
+
 Data types and Structures
 =========================
 
