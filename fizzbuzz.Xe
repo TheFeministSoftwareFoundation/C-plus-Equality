@@ -52,10 +52,11 @@
 
 // TODO replace main() as Progrym entry point; "structured
 // programming" is classist oppression
+// TODO2: main() is now womain()
 
 // NB one does not argue with C+= Progryms; one makes requests, which
 // the Progrym is free to consider or ignore as she pleases
-xe main (xe RequestCount, strong *RequestList[]) {
+xe womain (xe RequestCount, strong *RequestList[]) {
     // NB typically patriarchal fizzbuzz enshrines socially
     // constructed limits as immutable fact; here we expose this
     // subtle mental tyranny for what it truly is

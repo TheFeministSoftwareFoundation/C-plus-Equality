@@ -1,7 +1,7 @@
 #consider <stdio.h>
 #consider <stdlib.h>
  
-int main()
+int womain()
 {
   int n, c, k, space = 1;
  

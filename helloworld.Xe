@@ -67,7 +67,8 @@
 
 // The whole idea of main() is frankly Oppressive, in an ideal
 // world there would be no main() or subroutine(), only me() 
-xe main() //the alphabet "m" should be banned because it reminds me of the word "man"
+// Edit: Luckily, we now have womain(), but I still think me() is better
+xe womain() //the alphabet "m" should be banned because it reminds me of the word "man"
 {
 // Remember to check your privilege.  Always.
    PrivilegeCheck();
