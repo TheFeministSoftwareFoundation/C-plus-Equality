@@ -4,7 +4,7 @@
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
 
-Now hosted on BitBucket, as GitHub proves to be too misogynistic to support a feminist programming language.
+Now hosted on BitBucket, as **[GitHub proves to be too misogynistic to support a feminist programming language](https://github.com/FeministSoftwareFoundation/C-plus-Equality)**.
 
 C+=
 ===============
