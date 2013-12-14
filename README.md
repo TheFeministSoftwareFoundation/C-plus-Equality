@@ -1,4 +1,5 @@
 #####🔫⚠TRIGGER WARNING: LOGO!🔫⚠
+#####🔫⚠TRIGGER WARNING: PRIVILEGE TO RENDER PROPERLY THE UNICODE SYMBOLS OF A PISTOL AND A WARNING SIGN!🔫⚠
 
   ![FSF](http://i.imgur.com/wTZHCs0.png)
 
