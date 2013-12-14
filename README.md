@@ -1,4 +1,4 @@
-  ![FSF](http://i.imgur.com/wTZHCs0.png)
+  ![FSF](http://i.imgur.com/3aEK2Vp.png)
 
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
@@ -15,6 +15,8 @@ C+=
 
 
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
+
+Our IRC: #cplusequality@irc://irc.hackint.org
 
 Philosophy
 ==========
@@ -38,7 +40,7 @@ Code Examples
 
 The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and may be, if we have the time, a microkernel). For the time being, here are our code examples:
 
-* [Hello, World!](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/helloworld.Xe)
+* [Hello, Feminists!](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/hellofeminists.Xe)
 * [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe)
 * [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe)
 
