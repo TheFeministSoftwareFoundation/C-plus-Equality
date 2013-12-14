@@ -43,6 +43,7 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 * [Hello, Feminists!](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/hellofeminists.Xe)
 * [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe)
 * [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe)
+* [Sieve](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/sieve.Xe)
 
 We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
 
