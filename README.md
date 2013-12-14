@@ -40,6 +40,8 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 * [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe)
 * [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe)
 
+We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
+
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it.  In*her*preter usage is as follows: ./inherpret program.Xe
 
 On 1s and 0s
@@ -157,7 +159,7 @@ Debugging
 * There is to be no debugging. We need to do away with functional-centric, bugphobic attitudes in programming. You need to accept the program the way it is.
 * If you ever try to debug a **C+=** program, the program steps you through the programming, makes you guess what each variable and pointer is currently set to, and throws a **Trigger Warning** if you get it wrong.
 * Any actual errors will simply result in 'error' being printed.  It is not the program's job to educate you.
-* An IDE is available at https://bitbucket.org/japesinator/privcheck-ide
+* An IDE is available at [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
 
 File operations
 ===============
