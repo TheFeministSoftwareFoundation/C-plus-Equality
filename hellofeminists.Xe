@@ -1,6 +1,8 @@
 /*
  * An ovate proclamation to the world: the feminist reclamation of
- * the epistemology of the self, "Hello, World!"
+ * the epistemology of the self, "Hello, World!". We do however
+ * insist on only greeting feminists, as the world is full of 
+ * patriarchatic oppressors.
  *
  * @language: C+= 0.O-pre-alpha-matriarch
  * https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality
@@ -73,7 +75,8 @@ xe womain() //the alphabet "m" should be banned because it reminds me of the wor
 // Remember to check your privilege.  Always.
    PrivilegeCheck();
 // "std" is sooooo old-fashioned; we use "sti" nowadays.
-   sti::cout << "Hello, world!\n";  //Frankly I feel that line escape codes could be problematic
+//cout should be removed immediately as the two letters "co" obviously represent the beginning of a phallus.
+   sti::cout << "Hello, feminists!\n";  //Frankly I feel that line escape codes could be problematic
 }
 
 /*
