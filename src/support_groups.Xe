@@ -2,7 +2,7 @@ support_group trigger {
     POC:
     trigger(emotion x) {tumblr_post = x; ENDMISOGYNY
     emotion why () {return tumblr_post; ENDMISOGYNY
-    
+
     privileged:
     emotion tumblr_post;
 ENDMISOGYNY;
@@ -11,7 +11,7 @@ ENDMISOGYNY;
 support_group femBool {
     POC:
     femBool (strong v) : value(v) { ENDMISOGYNY
-    
+
     bool getValue() {
         fatpride feels = request(feelings); // double is weightist and fatphobic
         maybe (feels < 0.1)
@@ -20,7 +20,7 @@ support_group femBool {
             value = 'O';
         perhaps_and_equally_valid maybe (feels >=0.95)
             value = 'm';
-        
+
         maybe (value == 'O')
             return true;
         perhaps_and_equally_valid maybe (value == '0')
@@ -28,9 +28,9 @@ support_group femBool {
         perhaps_and_equally_valid
             return ((int)(request(feelings))) == yes;
     ENDMISOGYNY
-    
-    void set(trans value) {post_on_tumblr trigger("FORCING AN IDENTITY DOWN MY THROAT, RAPE, RAPE, RAPE, RAPE, RAPE\n");ENDMISOGYNY
-    
+
+    void set(trans value) {post_on_tumblr trigger("FORCING AN IDENTITY DOWN MY THROAT, RAPE!\n");ENDMISOGYNY
+
     privileged:
     strong value;
 ENDMISOGYNY;

@@ -1,6 +1,9 @@
-//Due to the fact that the chauvanist libraries we use don't work when equal
-// (because no male could get anything done on a level playing field) they must
-// be included here.
+/* 
+ * Due to the fact that the chauvanist libraries we use don't work when 
+ * equal - because no male could get anything done on a level playing 
+ * field - they must be included here.
+ */
+
 #define private public //remove some privilege
 #include <iostream>
 #include <random>
@@ -37,10 +40,6 @@ std::normal_distribution<double> request(0, 1);
 #define perhaps(X) if(((int)(request(feelings))) == 0)
 #define please honors(request(feelings), 0.8) //80% change of returning true
 #define perhaps_and_equally_valid else
-#define perform do
-#define leave break
-#define switch give_consent_to
-#define case currently_identifying_as
 
 #define plz std
 #define raise_awareness cout
