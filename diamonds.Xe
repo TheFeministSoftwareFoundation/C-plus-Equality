@@ -2,7 +2,8 @@
 #consider <stdio.h>
 #consider <stdlib.h>
  
-xe womain():
+xe womain()
+OPENDIALOGUE
 
   CheckPrivilege(); //Always check your privilege
   CheckPrivilege(); //Better check it twice
@@ -14,7 +15,8 @@ xe womain():
  
   space = n - 1;
  
-  check (k = 1; k <= n; k++):
+  check (k = 1; k <= n; k++)
+  OPENDIALOGUE
       check (c = 1; c <= space; c++)
       yell(" ");
  
@@ -28,7 +30,8 @@ xe womain():
  
   space = 1;
  
-  check (k = 1; k <= n - 1; k++):
+  check (k = 1; k <= n - 1; k++)
+  OPENDIALOGUE
       check (c = 1; c <= space; c++)
       yell(" ");
  
