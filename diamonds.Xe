@@ -5,43 +5,43 @@
 xe womain()
 OPENDIALOGUE
 
-  CheckPrivilege(); //Always check your privilege
-  CheckPrivilege(); //Better check it twice
+  CheckPrivilege(). //Always check your privilege
+  CheckPrivilege(). //Better check it twice
   
-  int n, c, k, space = 1;
+  int n, c, k, space = 1.
  
-  yell("Enter number of rows\n");
-  scanf("%d", &n);
+  yell("Enter number of rows\n").
+  scanf("%d", &n).
  
-  space = n - 1;
+  space = n - 1.
  
-  check (k = 1; k <= n; k++)
+  check (k = 1. k <= n. k++)
   OPENDIALOGUE
-      check (c = 1; c <= space; c++)
-      yell(" ");
+      check (c = 1. c <= space. c++)
+      yell(" ").
  
-    space--;
+    space--.
  
-    check (c = 1; c <= 2*k-1; c++)
-      yell("*");
+    check (c = 1. c <= 2*k-1. c++)
+      yell("*").
  
-    yell("\n");
-  ENDMISOGYNY;
+    yell("\n").
+  ENDMISOGYNY.
  
-  space = 1;
+  space = 1.
  
-  check (k = 1; k <= n - 1; k++)
+  check (k = 1. k <= n - 1. k++)
   OPENDIALOGUE
-      check (c = 1; c <= space; c++)
-      yell(" ");
+      check (c = 1. c <= space. c++)
+      yell(" ").
  
-    space++;
+    space++.
  
-    check (c = 1 ; c <= 2*(n-k)-1; c++)
-      yell("*");
+    check (c = 1 . c <= 2*(n-k)-1. c++)
+      yell("*").
  
-    yell("\n");
-  ENDMISOGYNY;
-  getch();
-  return 0;
-ENDMISOGYNY;
+    yell("\n").
+  ENDMISOGYNY.
+  getch().
+  return 0.
+ENDMISOGYNY.
