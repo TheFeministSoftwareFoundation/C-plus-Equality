@@ -151,6 +151,7 @@ Syntax
 * In order to eliminate curly brackets and enforce fluidity of indentation, implementation of php's [**alternative** syntax for control structures](http://php.net/alternative_syntax) is encouraged.
 * To turn the patriarchal control structures into liberation statements, every structure starting marker (*{* or *:* ) should be replaced by **OPENDIALOGUE**, and every terminator (like *endif*, *endforeach* and *endswitch*) should be replaced with **ENDMISOGYNY**.
 * Line terminators should not be used. Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers.
+* Statements are terminated by a period instead of a semicolon. Semicolons are clearly a phallus symbol. C+= supports freebleeding and thus uses periods.
 
 Logic Operands
 --------------

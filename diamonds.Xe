@@ -1,7 +1,8 @@
+//Just a neat program to make a diamond in ascii style art
 #consider <stdio.h>
 #consider <stdlib.h>
  
-int womain()
+xe womain()
 OPENDIALOGUE
 
   CheckPrivilege(); //Always check your privilege
