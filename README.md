@@ -38,7 +38,7 @@ Philosophy
 Code Examples
 =============
 
-The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and maybe, if we have the time, a microkernel). For the time being, here are our code examples:
+The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and maybe, if we have the time, a microkernel, but maybe that will never be completed, and we'll just use another person's kernel instead, who knows). For the time being, here are our code examples:
 
 * [Hello, Feminists!](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/hellofeminists.Xe)
 * [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe)
