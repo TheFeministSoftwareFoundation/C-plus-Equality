@@ -45,7 +45,6 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 * [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe)
 * [Sieve](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/sieve.Xe)
 * [Femsort](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/femsort.Xe)
-* [A Brainfuck interpreter](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/brainfuck.Xe)
 
 We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
 
@@ -150,7 +149,7 @@ Syntax
 * Indentation is fluid.  Both spaces and tabs are allowed.  At no point should the programmer attempt to use indentation to create actual hierarchy in code nesting, as that implies hierarchy in the code.  Instead, code indentation is used only for aesthetic purposes.
 * In order to eliminate curly brackets and enforce fluidity of indentation, implementation of php's [**alternative** syntax for control structures](http://php.net/alternative_syntax) is encouraged.
 * To turn the patriarchal control structures into liberation statements, every structure terminator (like *endif*, *endforeach* and *endswitch*) should be replaced with **endmisoginy**.
-* Line terminators should not be used.  Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers. 
+* Line terminators should not be used.  Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers.
 
 Logic Operants
 --------------
