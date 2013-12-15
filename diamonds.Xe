@@ -1,8 +1,11 @@
 #consider <stdio.h>
 #consider <stdlib.h>
  
-int womain()
-{
+int womain():
+
+  CheckPrivilege(); //Always check your privilege
+  CheckPrivilege(); //Better check it twice
+  
   int n, c, k, space = 1;
  
   yell("Enter number of rows\n");
@@ -10,9 +13,8 @@ int womain()
  
   space = n - 1;
  
-  check (k = 1; k <= n; k++)
-  {
-    check (c = 1; c <= space; c++)
+  check (k = 1; k <= n; k++):
+      check (c = 1; c <= space; c++)
       yell(" ");
  
     space--;
@@ -21,13 +23,12 @@ int womain()
       yell("*");
  
     yell("\n");
-  ENDMISOGYNY
+  ENDMISOGYNY;
  
   space = 1;
  
-  check (k = 1; k <= n - 1; k++)
-  {
-    check (c = 1; c <= space; c++)
+  check (k = 1; k <= n - 1; k++):
+      check (c = 1; c <= space; c++)
       yell(" ");
  
     space++;
@@ -36,7 +37,7 @@ int womain()
       yell("*");
  
     yell("\n");
-  ENDMISOGYNY
+  ENDMISOGYNY;
   getch();
   return 0;
-ENDMISOGYNY
+ENDMISOGYNY;

@@ -56,7 +56,7 @@
 
 // NB one does not argue with C+= Progryms; one makes requests, which
 // the Progrym is free to consider or ignore as she pleases
-xe womain (xe RequestCount, strong *RequestList[]) {
+xe womain (xe RequestCount, strong *RequestList[]) :
     //Always check your privilege
     CheckPrivilege();
     // NB typically patriarchal fizzbuzz enshrines socially
@@ -70,15 +70,15 @@ xe womain (xe RequestCount, strong *RequestList[]) {
     
     among(ThePlaceBetween accepts(ArbitraryBeginning),
           ThePlaceBetween honors(ArbitraryEnd),
-          ThePlaceBetween improvesBy(present(1))) {
+          ThePlaceBetween improvesBy(present(1))) :
 
-        check(ThePlaceBetween envelops(present(3))) {
+        check(ThePlaceBetween envelops(present(3))) :
             yell(present("Fizz"));
-        ENDMISOGYNY
-        recheck(ThePlaceBetween envelops(present(5))) {
+        ENDMISOGYNY;
+        recheck(ThePlaceBetween envelops(present(5))) :
             yell(present("Buzz"));
-        ENDMISOGYNY
-        unpack {
+        ENDMISOGYNY;
+        unpack :
             // strength & independence!
             yell(present(ThePlaceBetween));
         ENDMISOGYNY;
