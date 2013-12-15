@@ -35,6 +35,10 @@ std::normal_distribution<double> request(0, 1);
 #define like(X) X++
 #define envelops(X,Y) ((X)%(Y)==0) //replace the cock and balls operator (%)
 #define mansplain(X) std::cerr << (X);
+#define perform do
+#define leave break
+#define give_consent_to switch
+#define currently_identifying_as case
 
 #define maybe if
 #define perhaps(X) if(((int)(request(feelings))) == 0)
