@@ -3,6 +3,7 @@
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/). Feminist software is a cornerstone of any modern free society. We build this foundation.
 
+Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
 Now hosted on BitBucket, as **[GitHub proves to be too misogynistic to support a feminist programming language](https://github.com/FeministSoftwareFoundation/C-plus-Equality)**.
 
@@ -12,9 +13,6 @@ C+=
 **C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
 **Note: This is a programming language written by and for FEMINISTS, not WOMEN. LEARN THE DIFFERENCE, YOU MISOGYNIST!**
-
-
-Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
 Our IRC: #cplusequality@irc://chat.freenode.net
 
