@@ -57,6 +57,8 @@ We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinato
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it. In*her*preter usage is as follows: ./inherpret program.Xe
 
+**[Our new inHERpreter is in the making, based on the code of tcc.  Join us!](https://bitbucket.org/FeministSoftwareFoundation/inherpreter)**
+
 On 1s and 0s
 ============
 
