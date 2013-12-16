@@ -1,5 +1,6 @@
   ![FSF](http://i.imgur.com/ZhTU8r3.png)
-  ![C-plus-Equality](http://i.imgur.com/Ygq1Pch.png)
+<!--Sarkeesian colour palette  ![C-plus-Equality](http://i.imgur.com/Ygq1Pch.png)-->
+  ![C-plus-Equality](http://i.imgur.com/9m5Kx6d.png)
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/). Feminist software is a cornerstone of any modern free society. We build this foundation.
 
