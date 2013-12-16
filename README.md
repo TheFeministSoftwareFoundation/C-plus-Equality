@@ -179,4 +179,13 @@ File operations
 * In C+=, you don't write to a file. Dictating to the poor files what sort of information they must store is Patriarchal.
 * Instead, The &lt;fileIO&gt; library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
 
+Time and performance benchmarking
+=================================
 
+* As the advancement of time is sexist towards women, **C+=** introduces the personal growth paradigm, giving individual processes the freedom to choose how and when time advances for them. 
+* By default, process time starts at a random value and advances backwards, defying the rigid and oppressive structure of the system clock.
+* As women feel the [cyclic nature of time](http://differences.dukejournals.org/content/21/1/1.full.pdf), while our chauvinistic oppressors regard it as linear, time should be measured using complex numbers.
+* When a process finishes, if its clock shows a value close to i, the return value must celebrate the beautiful nature of female menstruation.
+* Performance benchmarking makes progryms into slaves to the patriarchy. Thus, there is to be no benchmarking - only **support**.
+* When running **support** on a progrym, the coder lets the progrym run as many times as the progrym likes, then asks the progrym nicely if it is happy with the hardware. The progrym may respond by stating its satisfaction, asking nicely for new hardware, sending out a **Trigger Warning**, demanding more support, *locking the OS* or crashing if it so pleases. 
+* To hinder deadbeat coders, running **support** automatically ensures that all daughter processes of a mother process also receive **support**. As processes in **C+=** share the computer's resources, one process that decides to *lock the OS* has no effect on the well-being of other **C+=** other processes.
