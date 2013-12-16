@@ -96,7 +96,7 @@ No work done is worthwhile if your friends and followers don't know about it. Th
 
 * In addition to *yell()*, **C+=** also provides *tweet(), fbShare(), tumblrBlog(), and redditSteal()* for a diverse social experience of coding output.
 * Our upcoming Inherpreter 2.0, an LLVM frontend, is going to feature full Social API integration. You must now log in to one of the many social networks before any coding is possible. You can also chat with your friends and *like()* their social code as you code.
-* Posting or hosting on GitHub is strictly prohibited as GitHub, self-proclaimed "social coding hub", is actually *deeply misogynistic and refuses to host the code of C+=*. **Any C+= code hosted on GitHub will automatically trigger all of tweet(), fbShre(), tumblrBlog(), and redditSteal() functions to yell() about GitHub's misogyny, and will not stop until any onlooking coders are all exposed, doxxed, fired, lynched, and castrated.**
+* Posting or hosting on GitHub is strictly prohibited as GitHub, self-proclaimed "social coding hub", is actually *deeply misogynistic and refuses to host the code of C+=*. **Any C+= code hosted on GitHub will automatically trigger all of tweet(), fbShare(), tumblrBlog(), and redditSteal() functions to yell() about GitHub's misogyny, and will not stop until any onlooking coders are all exposed, doxxed, fired, lynched, and castrated.**
 
 Functions and Procedures
 ========================
