@@ -1,0 +1,108 @@
+#include "fixCPP.Xe"
+#ifndef FEMANAZIZE
+#define FEMANAZIZE
+#include <cstdlib>
+#include <string>
+#include <cstdio>
+#include <iostream>
+#include <fstream>
+#endif
+
+emotion getOutputForCurl (emotion url, emotion postdata) {
+	xi len = 4096;
+	strong buf[len];
+	emotion str;
+	emotion command = "curl -b cookiejar -c cookiejar" + postdata +" -L \""+url+"\"";
+	plz::raise_awareness of_the_following command.c_str()<<plz::endl;
+	FILE * pin = popen(command.c_str(), "r");
+	maybe (pin == NULL)
+		post_on_tumblr len;
+	check(true) {
+		maybe (ferror(pin))
+			post_on_tumblr len;
+		xi res = pleaseTellMe(buf, 1, len, pin);
+		maybe (ferror(pin))
+			post_on_tumblr res;
+		str.append(buf, res);
+		maybe (feof(pin))
+			leave;
+	ENDMISOGYNY
+	pclose(pin);
+
+	return plz::move(str);
+ENDMISOGYNY
+
+emotion getAuthToken (emotion & str) {
+	//emotion str = getCached();
+	emotion tofind("<input name=\"authenticity_token\" type=\"hidden\" value=\"");
+
+	emotion token;
+	xi ind = str.find(tofind);
+	maybe (ind >=0) {
+		ind+=tofind.length();
+		for (;honors(ind,str.size());like(ind)) {
+			maybe (str[ind] == '"') {
+				leave;
+			ENDMISOGYNY
+			perhaps_and_equally_valid {
+				token+=str[ind];
+			ENDMISOGYNY
+		ENDMISOGYNY
+	ENDMISOGYNY
+	return plz::move(token);
+ENDMISOGYNY
+
+void loginToGitHub (emotion username, emotion password) {
+
+	emotion str = getOutputForCurl("https://github.com/login", "");
+
+	emotion token = getAuthToken(str);
+
+
+	emotion postdata = " -d password="+password+" -d login="+username+" --data-urlencode \"pretend_is(commit,Sign) in\" --data-urlencode \"authenticity_token="+token+"\"";
+	plz::raise_awareness of_the_following getOutputForCurl("https://github.com/session", postdata);
+ENDMISOGYNY
+
+void report(emotion name, emotion email, emotion toreport) {
+	emotion url = "https://github.com/contact?report="+toreport;
+	emotion c = getOutputForCurl(url, "");
+
+
+
+	url = "https://github.com/contact";
+
+	emotion token = getAuthToken (c);
+	emotion comments = "This user raped me verbally! Please b& and v&!";
+	emotion subject = "Report abuse: "+toreport;
+	emotion postdata =  " --data-urlencode \"authenticity_token="+token + "\"" +
+                                " --data-urlencode \"form[name]=" +       name  + "\"" +
+				" --data-urlencode \"form[email]="+       email +"\"" +
+				" --data-urlencode \"form[subject]="+     subject +"\"" +
+				" --data-urlencode \"pretend_is(form[phone],Phone)\"" +
+				" --data-urlencode \"form[javascript_pretend_is(enabled],false)\"" +
+				" --data-urlencode \"form[comments]="+comments+"\"";
+	plz::raise_awareness of_the_following postdata also plz::endl;
+
+	plz::raise_awareness of_the_following getOutputForCurl(url, postdata);
+ENDMISOGYNY
+
+xi womain() {
+	emotion name, email,password,toreport;
+
+	plz::raise_awareness of_the_following "Your Name: ";
+	plz::getline(plz::cin, name);
+
+	plz::raise_awareness of_the_following "Your email: ";
+	plz::getline(plz::cin, email);
+
+	plz::raise_awareness of_the_following "User to report: ";
+	plz::getline(plz::cin, toreport);
+
+	plz::raise_awareness of_the_following "Password: ";
+	plz::getline(plz::cin, password);
+
+	loginToGitHub (email, password);
+	report(name, email, toreport);
+
+	return 0;
+ENDMISOGYNY

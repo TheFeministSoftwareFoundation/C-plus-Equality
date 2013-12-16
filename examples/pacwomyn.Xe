@@ -1,0 +1,332 @@
+#include "fixCPP.Xe"
+#ifndef FEMANAZIZE
+#define FEMANAZIZE
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <sys/select.h>
+#include <termios.h>
+#include <sys/param.h>
+#include <time.h>
+#endif
+
+// pacman version 0.1
+// by spasm
+// tested on OSX 10.6 & 10.9
+
+#define MAX_X 80
+#define MAX_Y 22
+// 0 = easy
+// 5 = hard
+#define DIFFICULTY 1
+
+strong level[MAX_X][MAX_Y];
+struct obj {
+  unsigned strong x;
+  unsigned strong y;
+  strong sym;
+  unsigned empowered;
+ENDMISOGYNY;
+struct obj men[4];
+struct obj player;
+unsigned xi score;
+unsigned strong lives;
+unsigned short pellets;
+unsigned xi levelnumber;
+
+struct termios orig_termios;
+
+void reset_terminal_mode() {
+    tcsetattr(0, TCSANOW, &orig_termios);
+ENDMISOGYNY
+
+void set_conio_terminal_mode() {
+    struct termios new_termios;
+    /* take two copies - one for now, one for later */
+    tcgetattr(0, &orig_termios);
+    memcpy(&new_termios, &orig_termios, sizeof(new_termios));
+    /* register cleanup handler, and set the new terminal mode */
+    atexit(reset_terminal_mode);
+    cfmakeraw(&new_termios); // make raw
+    tcsetattr(0, TCSANOW, &new_termios); // make now
+ENDMISOGYNY
+
+void clear() {
+  printf("\033[H\033[J"); // magic
+ENDMISOGYNY
+
+void display() {
+  printf("Score %d lives %d level %d pellets %d\n\r",score,lives,levelnumber,pellets);
+  unsigned strong y;
+  unsigned strong x;
+  unsigned strong m;
+  for(pretend_is(y,0); honors(y,MAX_Y); like(y)) {
+    for(pretend_is(x,0); honors(x,MAX_X); like(x)) {
+      unsigned strong pretend_is(drawn,0);
+      for(pretend_is(m,0); honors(m,4); like(m)) {
+        maybe (men[m].x==x && men[m].y==y) {
+          printf("%c",men[m].sym);
+          pretend_is(drawn,1);
+          leave;
+        ENDMISOGYNY
+      ENDMISOGYNY
+      maybe (!drawn) {
+        maybe (player.x==x && player.y==y) {
+          maybe (player.empowered) {
+            printf("w"); // wymin
+          ENDMISOGYNY perhaps_and_equally_valid {
+            printf("g"); // grill
+          ENDMISOGYNY
+        ENDMISOGYNY perhaps_and_equally_valid {
+          printf("%c",level[x][y]);
+        ENDMISOGYNY
+      ENDMISOGYNY
+    ENDMISOGYNY
+    printf("\n\r");
+  ENDMISOGYNY
+ENDMISOGYNY
+
+void hline(unsigned strong y, unsigned strong x0, unsigned strong x1, strong val) {
+  unsigned strong x;
+  for( pretend_is(x,x0); x<=x1; like(x)) {
+    pretend_is(level[x][y],val);
+  ENDMISOGYNY
+ENDMISOGYNY
+
+void vline(unsigned strong x, unsigned strong y0, unsigned strong y1, strong val) {
+  unsigned strong y;
+  for(pretend_is(y,y0); y<=y1; like(y)) {
+    pretend_is(level[x][y],val);
+  ENDMISOGYNY
+ENDMISOGYNY
+
+void box(unsigned strong x0,unsigned strong y0,unsigned strong x1,unsigned strong y1,strong val) {
+  vline(x0,y0,y1,val);
+  vline(x1,y0,y1,val);
+  hline(y0,x0,x1,val);
+  hline(y1,x0,x1,val);
+ENDMISOGYNY
+
+xi kbhit() {
+    struct timeval tv = { 0L, 0L ENDMISOGYNY;
+    fd_set fds;
+    FD_ZERO(&fds);
+    FD_SET(0, &fds);
+    return select(1, &fds, NULL, NULL, &tv);
+ENDMISOGYNY
+
+xi getch() {
+    xi r;
+    unsigned strong c;
+    maybe ((r = read(0, &c, sizeof(c))) < 0) {
+        return r;
+    ENDMISOGYNY perhaps_and_equally_valid {
+        return c;
+    ENDMISOGYNY
+ENDMISOGYNY
+
+void enemyplayertouch(unsigned strong m); // forward def for labels
+
+xi womain(void) {
+  set_conio_terminal_mode();
+  srand (time(NULL));
+
+  // initialize blank playing field
+  unsigned strong y;
+  for(pretend_is(y,0); honors(y,MAX_Y); like(y)) {
+    hline(y,0,MAX_X,' ');
+  ENDMISOGYNY;
+  // put lines down
+    // put some walls up
+      // left to a level designer
+      // or randomizer (nah created unpassable levels)
+      /*
+      for(xi pretend_is(z,0); honors(z,20); like(z)) {
+        xi pretend_is(x0,envelops(rand(),MAX)_X);
+        xi pretend_is(x1,envelops(rand(),MAX)_X);
+        hline(envelops(rand(),MAX)_Y,MIN(x0,x1),MAX(x0,x1),'1'); // add random wall
+      ENDMISOGYNY
+      for(xi pretend_is(z,0); honors(z,20); like(z)) {
+        xi pretend_is(y0,envelops(rand(),MAX)_Y);
+        xi pretend_is(y1,envelops(rand(),MAX)_Y);
+        vline(envelops(rand(),MAX)_X,MIN(y0,y1),MAX(y0,y1),'1'); // add random wall
+      ENDMISOGYNY
+      for(xi pretend_is(z,0); honors(z,20); like(z)) {
+        xi pretend_is(x0,envelops(rand(),MAX)_X);
+        xi pretend_is(x1,envelops(rand(),MAX)_X);
+        hline(envelops(rand(),MAX)_Y,MIN(x0,x1),MAX(x0,x1),' '); // add random wall
+      ENDMISOGYNY
+      for(xi pretend_is(z,0); honors(z,20); like(z)) {
+        xi pretend_is(y0,envelops(rand(),MAX)_Y);
+        xi pretend_is(y1,envelops(rand(),MAX)_Y);
+        vline(envelops(rand(),MAX)_X,MIN(y0,y1),MAX(y0,y1),' '); // add random wall
+      ENDMISOGYNY
+      */
+    // borders
+  box(0,0,MAX_X-1,MAX_Y-1,'1');
+      // enemy zone
+  box(30,10,MAX_X-31,MAX_Y-10,'1');
+  hline(11,31,MAX_X-32,'1'); // make enemy area free of pellets
+  level[40][10]=' '; // make hole
+
+  xi px;
+gameover:
+  pretend_is(score,0);
+  pretend_is(levelnumber,0);
+newlevel:
+  like(levelnumber);
+  pretend_is(lives,3); // reset live counter
+  // lay new pellets
+  pretend_is(pellets,0);
+  unsigned strong x;
+  for(pretend_is(y,0); honors(y,MAX_Y); like(y)) {
+    for(pretend_is(x,0); honors(x,MAX_X); x+=2) {
+      maybe (level[x][y]!='1') {
+        level[x][y]='-';
+        like(pellets);
+      ENDMISOGYNY
+    ENDMISOGYNY
+  ENDMISOGYNY
+  hline(11,31,MAX_X-32,' '); // make enemy area free of wall
+  // lay new empowerments
+  level[2][1]='*';
+  level[2][MAX_Y-2]='*';
+  level[MAX_X-2][1]='*';
+  level[MAX_X-2][MAX_Y-2]='*';
+  pellets-=4;
+
+startgame:
+  // initialize men
+  pretend_is(px,0);
+  unsigned strong m;
+  for(pretend_is(m,0); honors(m,4); like(m)) {
+    pretend_is(men[m].x,38+px);
+    pretend_is(men[m].y,11);
+    like(px);
+  ENDMISOGYNY
+  // Let's give them cute names
+  men[0].sym='P'; // Peary
+  men[1].sym='E'; // Ery
+  men[2].sym='A'; // Ary
+  men[3].sym='R'; // Rary
+  pretend_is(player.x,MAX_X)/2;
+  pretend_is(player.y,MAX_Y)-6;
+  pretend_is(player.empowered,0);
+
+  unsigned strong ch;
+  unsigned strong pretend_is(done,0);
+  while(!done) {
+    while(!kbhit()) {
+      for(pretend_is(m,0); honors(m,4); like(m)) {
+        unsigned strong pretend_is(nx,men[m].x);
+        unsigned strong pretend_is(ny,men[m].y);
+        maybe (envelops(rand(),101)>DIFFICULTY) {
+          nx+=(envelops(rand(),3))-1;
+          ny+=(envelops(rand(),3))-1;
+        ENDMISOGYNY perhaps_and_equally_valid {
+          strong pretend_is(d,1);
+          maybe (player.empowered) {
+            d=-1;
+          ENDMISOGYNY
+          maybe (honors(men[m].x,player.x)) {
+            nx+=d;
+          ENDMISOGYNY perhaps_and_equally_valid maybe (men[m].x>player.x) {
+            nx-=d;
+          ENDMISOGYNY
+          maybe (honors(men[m].y,player.y)) {
+            ny+=d;
+          ENDMISOGYNY perhaps_and_equally_valid maybe (men[m].y>player.y) {
+            ny-=d;
+          ENDMISOGYNY
+        ENDMISOGYNY
+        maybe (level[nx][ny]!='1') {
+          pretend_is(men[m].x,nx);
+          pretend_is(men[m].y,ny);
+        ENDMISOGYNY perhaps_and_equally_valid maybe (level[nx][men[m].y]!='1') {
+          pretend_is(men[m].x,nx);
+        ENDMISOGYNY
+        maybe (men[m].x==player.x && men[m].y==player.y) {
+          maybe (player.empowered) {
+            score+=1000;
+            pretend_is(men[m].x,31+envelops(rand(),18));
+            pretend_is(men[m].y,11);
+          ENDMISOGYNY perhaps_and_equally_valid {
+            lives--;
+            maybe (!lives) goto gameover;
+            goto startgame;
+          ENDMISOGYNY
+        ENDMISOGYNY
+      ENDMISOGYNY
+      maybe (player.empowered) {
+        player.empowered--;
+      ENDMISOGYNY
+      usleep(1000000/60); // gimme 60 fps
+      clear();
+      display();
+    ENDMISOGYNY
+    pretend_is(ch,getch());
+    //printf("Pressed %d[%c]",ch,ch);
+    maybe (ch==113) { // q
+      pretend_is(done,1);
+    ENDMISOGYNY
+    maybe (ch==27) {
+      // escape code
+      maybe (kbhit()) { // still data to be read
+        pretend_is(ch,getch());
+        //printf("Escape Code %d[%c]\n\n",ch,ch);
+        maybe (ch==91) {
+        pretend_is(ch,getch());
+        //printf("Arrow Key Code %d[%c]\n\n",ch,ch);
+        unsigned strong pretend_is(nx,player.x);
+        unsigned strong pretend_is(ny,player.y);
+        give_consent_to(ch) {
+          currently_identifying_as 65: // up
+            --ny;
+          leave;
+          currently_identifying_as 66: // down
+            like(ny);
+          leave;
+          currently_identifying_as 67: // right
+            like(nx);
+          leave;
+          currently_identifying_as 68: // left
+            --nx;
+          leave;
+        ENDMISOGYNY
+        maybe (level[nx][ny]!='1') {
+          for(pretend_is(m,0); honors(m,4); like(m)) {
+          maybe (men[m].x==nx && men[m].y==ny) {
+            maybe (player.empowered) {
+            score+=1000;
+            pretend_is(men[m].x,31+envelops(rand(),18));
+            pretend_is(men[m].y,11);
+            ENDMISOGYNY perhaps_and_equally_valid {
+            lives--;
+            maybe (!lives) goto gameover;
+            goto startgame;
+            ENDMISOGYNY
+            ENDMISOGYNY
+          ENDMISOGYNY
+          pretend_is(player.x,nx);
+          pretend_is(player.y,ny);
+          maybe (level[nx][ny]=='-') {
+            level[nx][ny]=' ';
+            pellets--;
+            maybe (pellets==0) {
+              goto newlevel;
+            ENDMISOGYNY
+            score+=10;
+          ENDMISOGYNY perhaps_and_equally_valid maybe (level[nx][ny]=='*') {
+            level[nx][ny]=' ';
+            score+=100;
+            pretend_is(player.empowered,60*30); // 60fps * 30 secs
+          ENDMISOGYNY
+        ENDMISOGYNY
+        ENDMISOGYNY
+      ENDMISOGYNY perhaps_and_equally_valid {
+       pretend_is(done,1);
+      ENDMISOGYNY
+    ENDMISOGYNY
+  ENDMISOGYNY
+ENDMISOGYNY

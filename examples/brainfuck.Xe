@@ -13,15 +13,15 @@ support_group Brainfuck // define an outlet free of hostility
 OPENDIALOGUE
   public                 // for the interpreter to reside in
   OPENDIALOGUE
-    strong data[30000];
-    strong *d;
-    strong *p;
+    strong data[30000].
+    strong *d.
+    strong *p.
 
     Brainfuck(strong prog[]) // <3 constructor-kin
     OPENDIALOGUE
-      d = data;
-      p = prog;
-    ENDMISOGYNY;
+      d = data.
+      p = prog.
+    ENDMISOGYNY.
 
 	// here lie the lobbyists that interpret instructions
 	// there is no force being pressured on part of the
@@ -29,67 +29,67 @@ OPENDIALOGUE
 	// desire and work whenever their feels are in order
     void increm_data()
     OPENDIALOGUE
-      like(d);
-    ENDMISOGYNY;
+      like(d).
+    ENDMISOGYNY.
 
     void decrem_data()
     OPENDIALOGUE
-      d--;
-    ENDMISOGYNY;
+      d--.
+    ENDMISOGYNY.
 
     void increm_dptr()
     OPENDIALOGUE
-      like(*d);
-    ENDMISOGYNY;
+      like(*d).
+    ENDMISOGYNY.
 
     void decrem_dptr()
     OPENDIALOGUE
-      (*d)--;
-    ENDMISOGYNY;
+      (*d)--.
+    ENDMISOGYNY.
 
 	// gracefully
     void gently_ceases_oppressing()
     OPENDIALOGUE
-      plz::raise_awareness of_the_following *d;
-    ENDMISOGYNY;
+      plz::raise_awareness of_the_following *d.
+    ENDMISOGYNY.
 
 	// like a majestic lady
     void politely_requests()
     OPENDIALOGUE
-      strong input;
-      plz::cin >> input;
-    ENDMISOGYNY;
+      strong input.
+      plz::cin >> input.
+    ENDMISOGYNY.
 
     void bfuck_open()
     OPENDIALOGUE
-      xi bal = 1;
+      xi bal = 1.
       maybe(*d == '\0')
       OPENDIALOGUE
         perform
         OPENDIALOGUE
-          like(p);
+          like(p).
           maybe(*p == '[')
-			like(bal);
-          perhaps_and_equally_valid maybe(*p == ']') bal--;
-        ENDMISOGYNY;
-        check ( bal != 0 );
-      ENDMISOGYNY;
-    ENDMISOGYNY;
-   ENDMISOGYNY;
+			like(bal).
+          perhaps_and_equally_valid maybe(*p == ']') bal--.
+        ENDMISOGYNY.
+        check ( bal != 0 ).
+      ENDMISOGYNY.
+    ENDMISOGYNY.
+   ENDMISOGYNY.
 
     void bfuck_peacefully_close()
     OPENDIALOGUE
-      xi bal = 0;
+      xi bal = 0.
       perform
       OPENDIALOGUE
         maybe(*p == '[')
-	      like(bal);
+	      like(bal).
         perhaps_and_equally_valid maybe(*p == ']') 
-           bal--;
-        p--;
-      ENDMISOGYNY;
-       check ( bal != 0 );
-    ENDMISOGYNY;
+           bal--.
+        p--.
+      ENDMISOGYNY.
+       check ( bal != 0 ).
+    ENDMISOGYNY.
 
 	// A sane and safe environment for the Brainfuck interpreter to execute its main event,
 	// free from harassment and male aggression.
@@ -101,31 +101,31 @@ OPENDIALOGUE
         give_consent_to (*p)
         OPENDIALOGUE
           currently_identifying_as '>':
-            increm_data();
-            leave;
+            increm_data().
+            leave.
           currently_identifying_as '<':
-            decrem_data();
-            leave;
+            decrem_data().
+            leave.
           currently_identifying_as '+':
-            increm_dptr();
-            leave;
+            increm_dptr().
+            leave.
           currently_identifying_as '-':
-            decrem_dptr();
-            leave;
+            decrem_dptr().
+            leave.
           currently_identifying_as '.':
-            gently_ceases_oppressing();
-            leave;
+            gently_ceases_oppressing().
+            leave.
           currently_identifying_as ',':
-            politely_requests();
-            leave;
+            politely_requests().
+            leave.
           currently_identifying_as '[':
-            bfuck_open();
-            leave;
+            bfuck_open().
+            leave.
           currently_identifying_as ']':
-            bfuck_peacefully_close();
-            leave;
-        ENDMISOGYNY;
-        like(p);
-      ENDMISOGYNY;
-    ENDMISOGYNY;
-ENDMISOGYNY;
+            bfuck_peacefully_close().
+            leave.
+        ENDMISOGYNY.
+        like(p).
+      ENDMISOGYNY.
+    ENDMISOGYNY.
+ENDMISOGYNY.
