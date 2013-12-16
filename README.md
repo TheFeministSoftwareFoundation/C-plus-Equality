@@ -1,5 +1,5 @@
   ![FSF](http://i.imgur.com/ZhTU8r3.png)
-  ![C-plus-Equality](http://i.imgur.com/Ygq1Pch.png)
+  ![C-plus-Equality](http://i.imgur.com/9m5Kx6d.png)
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/). Feminist software is a cornerstone of any modern free society. We build this foundation.
 
@@ -83,6 +83,15 @@ The third example above might seem to contradict with item 4 under Philosophy, n
 
 Every program needs to be prefixed by, in addition to the license, a disclaimer: "If this program fails to operate, it is due the Patriarchy backfiring upon itself, and no refunds will be issued."
 
+Social Integration
+==================
+
+No work done is worthwhile if your friends and followers don't know about it. That's why **C+=** is heavily socially integrated at its core.
+
+* In addition to *yell()*, **C+=** also provides *tweet(), fbShare(), tumblrBlog(), and redditSteal()* for a diverse social experience of coding output.
+* Our upcoming Inherpreter 2.0, an LLVM frontend, is going to feature full Social API integration. You must now log in to one of the many social networks before any coding is possible. You can also chat with your friends and *like()* their social code as you code.
+* Posting or hosting on GitHub is strictly prohibited as GitHub, self-proclaimed "social coding hub", is actually *deeply misogynistic and refuses to host the code of C+=*. **Any C+= code hosted on GitHub will automatically trigger all of tweet(), fbShre(), tumblrBlog(), and redditSteal() functions to yell() about GitHub's misogyny, and will not stop until the personal information of participating coders are exposed and lynched.**
+
 Functions and Procedures
 ========================
 
@@ -112,6 +121,7 @@ Data types and Structures
 * The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1). The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
 * Instead of **signed and unsigned**, types in **C+=** are either **cis or trans*.** Any **trans*** types function the same as **_diversity_**.
 * There is to be no lexical scoping — all variables are now global. Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
+* **Long** is now **fling**, and **short** is now **mealTicket**.
 * There is to be **no encapsulation**: don't tell me to protect my members, tell other functions not to access them!
 * Every variable has a random percentage of consent associated to it. A variable can be affected with a number if and only if it is consenting. Failure to do so will result in **C+=** throwing a ForcedInsertionTriggerWarning.
 
@@ -179,4 +189,13 @@ File operations
 * In C+=, you don't write to a file. Dictating to the poor files what sort of information they must store is Patriarchal.
 * Instead, The &lt;fileIO&gt; library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
 
+Time and performance benchmarking
+=================================
 
+* As the advancement of time is sexist towards women, **C+=** introduces the personal growth paradigm, giving individual processes the freedom to choose how and when time advances for them. 
+* By default, process time starts at a random value and advances backwards, defying the rigid and oppressive structure of the system clock.
+* Women intuitively feel the [cyclic, rather than linear nature of time](http://differences.dukejournals.org/content/21/1/1.full.pdf). Likewise, processes in **C+=** should measure time using [complex exponentials](https://en.wikipedia.org/wiki/Euler%27s_formula).
+* When a process finishes, if its internal clock has an exponent close to i * pi, the return value must be shown in red to celebrate the beautiful nature of female menstruation.
+* Performance benchmarking makes progryms into slaves to the patriarchy. Thus, there is to be no benchmarking - only **support**.
+* When running **support** on a progrym, the coder lets the progrym run as many times as the progrym likes, then asks the progrym nicely if it is happy with the hardware. The progrym may respond by stating its satisfaction, asking nicely for new hardware, sending out a **Trigger Warning**, demanding more support, *locking the OS* or crashing if it so pleases. 
+* To hinder deadbeat coders, running **support** automatically ensures that all daughter processes of a mother process also receive **support**. As processes in **C+=** share the computer's resources, one process that decides to *lock the OS* has no effect on the well-being of other **C+=** other processes.

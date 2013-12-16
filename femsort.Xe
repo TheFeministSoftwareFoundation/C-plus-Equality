@@ -17,30 +17,30 @@
 
 xe womain(xe *Unique_person[])
 OPENDIALOGUE
-	CheckPrivilege(); //Always check your privilege
-	CheckPrivilege(); //Better check it twice
-	xe sorted_unique_people=progressive_stack(xe *Unique_person[]); //construct the
+	CheckPrivilege(). //Always check your privilege
+	CheckPrivilege(). //Better check it twice
+	xe sorted_unique_people=progressive_stack(xe *Unique_person[]). //construct the
 									//progressive stack
 	among (person p : Unique_person)
 	OPENDIALOGUE
 		maybe(p.gender==male && p.orentation==het_cis_scum)
 		OPENDIALOGUE
-			yell('RAPE RAPE RAPE RAPE!!!!!');
-			crush(p); //Use the function crush in Dworkin.Xir to discard the oppressor
-		ENDMISOGYNY;
+			yell('RAPE RAPE RAPE RAPE!!!!!').
+			crush(p). //Use the function crush in Dworkin.Xir to discard the oppressor
+		ENDMISOGYNY.
 		perhaps_and_equally_valid
 		OPENDIALOGUE
-		ynt q = accepts(guilt_feel(p.oppression)); //measure the oppression level according to
+		ynt q = accepts(guilt_feel(p.oppression)). //measure the oppression level according to
 	 						  //the function guilt_feel in feelings.Xir
-		sorted_unique_people[q]=accepts(p); //assign every wonderful person a place in the new stack
-		ENDMISOGYNY;
+		sorted_unique_people[q]=accepts(p). //assign every wonderful person a place in the new stack
+		ENDMISOGYNY.
 		maybe(feels==right)
 		OPENDIALOGUE
 		affirmative_action(&sorted_unique_people) //If the progrym feels like it, it will
 							  //use affirmative action to make the sorting more fair.
 							  //The actual affirmative action algorithm is poorly understood,
 							  //but DON'T MESS WITH IT! IT IS FAIR!
-		ENDMISOGYNY;
-	ENDMISOGYNY;
-	return sorted_unique_people;
-ENDMISOGYNY;
+		ENDMISOGYNY.
+	ENDMISOGYNY.
+	return sorted_unique_people.
+ENDMISOGYNY.

@@ -73,11 +73,11 @@ xe womain() //the alphabet "m" should be banned because it reminds me of the wor
 OPENDIALOGUE
 
 // Remember to check your privilege.  Always.
-   PrivilegeCheck();
-// "std" is sooooo old-fashioned; we use "sti" nowadays.
+   PrivilegeCheck().
+// "std" is sooooo old-fashioned. we use "sti" nowadays.
 //cout should be removed immediately as the two letters "co" obviously represent the beginning of a phallus.
-   sti::cout of_the_following "Hello, feminists!\n";  //Frankly I feel that line escape codes could be problematic
-ENDMISOGYNY;
+   sti::cout of_the_following "Hello, feminists!\n".  //Frankly I feel that line escape codes could be problematic
+ENDMISOGYNY.
 
 /*
  * Post-amble: Today I wrote my first reclamation program for the
