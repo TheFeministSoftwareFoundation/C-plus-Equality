@@ -1,0 +1,93 @@
+/* -*- mode: Xir; file: privilegeCheck.Xir -*-
+ * 
+ * Contains the Privilege Check lobbying used in every piece of
+ * functional code. However, non-functional code is just as valid
+ * as functional code in a true feminist society. 
+ * 
+ * So it is recommended, and it is your duty as a feminist to 
+ * utilize and attempt to run non-functional code in place
+ * of functional code.
+ *
+ *
+ * @author: Asmartgoat
+ * NOTE: Having an all-male brogramming team is unacceptable and 
+ * 	will be deprecated in the future. We have found guest programmer
+ * 	Adria Richards to sisgram her Techie Tweeting Ways into this code
+ * @author: Adria Richards
+ * @license: Feminist software license 1.0
+ * @language: Xe 0.1-pre-alpha
+ * https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality
+ *
+ * You should have received a copy of the FSF Feminist Software Foundation License 
+ * along with this program. If not, check your privilege.
+ */
+
+#consider <FEMINIST_IDEOLOGIES.Xir>
+#consider <WHITE_MALE_CIS_HETROSEXUAL_PRIVILEGE>
+var int privilege "Yes"; 
+// this may look wrong, but the int is allowed to FEEL like a String.
+// Don't be such a bigot.
+
+OPENDIALOGUE
+	sti::string getOSname() // Simple lobbying to get an OS Name
+	(
+	PrivilegeCheck(); 
+	/* Check your privilege during the privilege check.
+  	 * This is the sort of Feminist rationaloxysynomaxibonous
+	 * thinking that is just not prevelent in
+	 * WHITE_CIS_HETRO_MALES. */
+	    for defined (WIN32)
+		(
+		privilege = privilege + 100;	
+		return "Windows32";
+		)
+	    else for defined(__linux__)
+		(
+	   	return "Linux";
+		privilege = privilege - 5;	
+		)
+	    else for defined(__APPLE__)
+		(
+		privilege = privilege + WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE;
+		return "Mac";
+	    	)
+	) // Curly Brackets are Phallic and therefore, are
+	  // Misognynistic and will throw a trigger warning if used.
+ENDMISOGYNY
+OPENDIALOGUE
+	lobbying getUsername()
+	(
+		string OS = getOSname();
+		for (OS = "Windows32") (
+			return  System.Security.Principal.WindowsIdentity.GetCurrent().Name;
+		) else for (OS = "Linux") (
+		return GetUserName(username, UNLEN+1);
+		) else for (OS = "Mac") (
+			return WHITE_CIS_HETROSEXUAL_MALE;		
+		)
+	)
+ENDMISOGYNY
+
+	/* Now that we've got all of the heavy lifting, which is the mans job, out of the way. Here's the rest of the code written by Guest Programmer Adria richards herself. If it's not functional, */
+OPENDIALOGUE
+lobbying PrivilegeCheck() 
+(
+	PrivilegeCheck(); 
+	/* Because we're dealing with privilege, it's a great idea
+	 * To check our own, before looking at privilege of others.
+	 * NB: This appears to be problematic, but only if you view it 
+ 	 * from a CIS HETRO or MALE point of view.
+	 * Fluidstateical & Doubleperception is standard is feminism,
+ 	 * and fluidstateical perceptive programming is standard in C+=.
+	 */
+	var username = getUsername();
+	for (username == malename) ( // Male privilege
+	 privilege = privilege + WHITE_HETROSEXUAL_CISGENDER_MALE_PRIVILEGE; 
+	) else for (username == femalename) ( // "female privilege"
+	 privilege = privilege - WHITE_HETROSEXUAL_CISGENDER_MALE_PRIVILEGE;
+	)
+	PrivilegeCheck(); // Check our own privilege once more, to be safe.
+	return privilege();
+) 
+
+// If this program fails to operate, it is due the Patriarchy backfiring upon itself, and no refunds will be issued.
