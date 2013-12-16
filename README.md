@@ -170,7 +170,7 @@ Syntax
 Logic Operands
 --------------
 
-* The use of mathematical operands such as &lt; and &gt; to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
+* The use of mathematical operands such as < and > to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
 * These should be replaced by the stats neutral operands / and \, and when you're not sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
 * Equality between two variables is denoted by ==. Since everyone is equal (with the exception of cishet men, who are already excluded as per the license), this always evaluates to true.
 * When evaluating expressions, * and / are no longer privileged over + and -. Rather, each previous use of each operator is counted, and expressions are evaluated based on which ones have been used the least up until that point.
@@ -191,7 +191,7 @@ File operations
 ===============
 
 * In C+=, you don't write to a file. Dictating to the poor files what sort of information they must store is Patriarchal.
-* Instead, The &lt;fileIO&gt; library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
+* Instead, The <fileIO> library brings in the functions pleaseWrite() and pleaseTellMe(). They both have a chance to return "no", and if so all other calls to the same file are automatically passed over because as we all know, once a file says no to being written, you must always respect that.
 
 Time and performance benchmarking
 =================================
