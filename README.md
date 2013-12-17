@@ -132,7 +132,7 @@ Data types and Structures
 * The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1). The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
 * Instead of **signed and unsigned**, types in **C+=** are either **cis or trans*.** Any **trans*** types function the same as **_diversity_**.
 * There is to be no lexical scoping — all variables are now global. Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
-* **Long** is now **fling**, and **short** is now **mealTicket**.
+* **Long** is now **studFling**, and **short** is now **mealTicket**.
 * There is to be **no encapsulation**: don't tell me to protect my members, tell other functions not to access them!
 * Every variable has a random percentage of consent associated to it. A variable can be affected with a number if and only if it is consenting. Failure to do so will result in **C+=** throwing a ForcedInsertionTriggerWarning.
 
