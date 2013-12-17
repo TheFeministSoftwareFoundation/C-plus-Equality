@@ -54,7 +54,7 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 * [A Brainfuck interpreter](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/brainfuck.Xe)
 * [PacWomyn game](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/pacwomyn.Xe)
 * [PHP converter from C to C+=](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/feminazizer.php)
-* [Social media lynchmob initiator for misogynistic GitHub repo](https://bitbucket.org/FeministSoftwareFounda**[Our new inHERpreter is in the making, based on the code of tcc.  Join us!](https://bitbucket.org/FeministSoftwareFoundation/inherpreter)**tion/c-plus-equality/src/mistress/examples/github_report.Xe)
+* [Social media lynchmob initiator for misogynistic GitHub repo](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/github_report.Xe)
 
 We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
 
