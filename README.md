@@ -19,7 +19,7 @@ C+=
 
 **Note: This is a programming language written by and for FEMINISTS, not WOMEN. LEARN THE DIFFERENCE, YOU MISOGYNIST!**
 
-Our IRC: #cplusequality@irc://chat.freenode.net
+Our IRC: [#cplusequality@irc://chat.freenode.net](http://webchat.freenode.net?channels=%23cplusequality)
 
 Philosophy
 ==========
