@@ -84,9 +84,9 @@ Anything that can be construed as misogynist will be corrected, thus:
 * class Foo{}; == social_construct Foo{};
 * \#include == #consider
 * break; == leave;
-* if() == check()
+* if() == maybe()
 * for() == check()
-* while() == check()
+* while() == freeflowing()
 * sin(x) == biotruth(x)
 * div == unite
 * 'y's are strictly prohibited when naming variables; only 'x's are allowed
