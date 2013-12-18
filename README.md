@@ -131,7 +131,8 @@ Data types and Structures
 * Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
 * **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
 * The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1). The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
-* Instead of **signed and unsigned**, types in **C+=** are either **cis or trans*.** Any **trans*** types function the same as **_diversity_**.
+* Instead of **signed and unsigned**, types in **C+=** are now **trans* and cis.** Any **trans*** types function the same as **_diversity_**.
+* **Void** is now **independent**.
 * There is to be no lexical scoping — all variables are now global. Global variables are now called **cosmopolitan**, or **_cosmo_** for short.
 * **Long** is now **studFling**, and **short** is now **mealTicket**.
 * There is to be **no encapsulation**: don't tell me to protect my members, tell other functions not to access them!
