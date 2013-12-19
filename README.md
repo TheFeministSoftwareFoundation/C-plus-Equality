@@ -13,6 +13,8 @@
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/GtP1EaPzRrM" frameborder="0" allowfullscreen></iframe>
 
+***
+
   ![C-plus-Equality](http://i.imgur.com/KXN9qCc.png)
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/). Feminist software is a cornerstone of any modern free society. We build this foundation.
