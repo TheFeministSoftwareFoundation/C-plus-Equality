@@ -73,6 +73,10 @@ Our in_her_preter is still in its early stages, but it is perfectly fine and don
 
 *[https://code.google.com/p/inherpreter/ Our new inHERpreter is in the making, based on the code of tcc. Join us!]*
 
+= Artwork =
+
+No feminist project is complete without its share of feminist artwork.  [https://code.google.com/p/c-plus-equality/source/browse/assets See our repository for the current cache!]  New artwork submissions are always welcome.
+
 = On 1s and 0s =
 
 The traditional binary foundation of 1s and 0s is deeply problematic: 1 is inherently phallic and thus misogynistic. Also, some 1s are 0s, and some 0s are 1s. It is not fair to give them immutable labels. Instead, we have 0s and Os as our fundamental binary logic gates. They symbolise/-ize the varying, natural, and beautiful differences of the female vaginal opening.
