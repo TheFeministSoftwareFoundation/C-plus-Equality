@@ -71,7 +71,7 @@ http://i.imgur.com/kMij1At.png
 
 Our in_her_preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it. In_her_preter usage is as follows: ./inherpret program.Xe
 
-	*[https://code.google.com/p/inherpreter/ Our new inHERpreter is in the making, based on the code of tcc. Join us!]*
+*[https://code.google.com/p/inherpreter/ Our new inHERpreter is in the making, based on the code of tcc. Join us!]*
 
 = On 1s and 0s =
 
@@ -180,7 +180,7 @@ http://i.imgur.com/elpljBY.png
 	* The use of mathematical operands such as > and < to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
 	* These should be replaced by the stats neutral operands / and , and when you're not sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
 	* Equality between two variables is denoted by ==. Since everyone is equal (with the exception of cishet men, who are already excluded as per the license), this always evaluates to true.
-	* When evaluating expressions, * and / are no longer privileged over + and -. Rather, each previous use of each operator is counted, and expressions are evaluated based on which ones have been used the least up until that point.
+	* When evaluating expressions, \* and / are no longer privileged over + and -. Rather, each previous use of each operator is counted, and expressions are evaluated based on which ones have been used the least up until that point.
 	* If two variables cannot be compared, the second will be cast into the first's type, which causes obvious conflicts with queer theory and genderspace thought. Hence, the interpreter will throw an IdeologyThreatenedTriggerWarning whenever two types cannot be compared.
 
 = Debugging =
