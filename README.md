@@ -53,11 +53,13 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 * [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/diamonds.Xe)
 * [Sieve](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/sieve.Xe)
 * [Femsort](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/femsort.Xe)
+
 ###More Advanced Patriarchy-Smashing
-* [A Brainfuck interpreter](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/brainfuck.Xe)
-* [PacWomyn game](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/pacwomyn.Xe)
-* [PHP converter from C to C+=](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/feminazizer.php)
-* [Social media lynchmob initiator for misogynistic GitHub repo](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/github_report.Xe)
+* [A Brainfuck interpreter](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/brainfuck.Xe)
+* [PacWomyn game](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/pacwomyn.Xe)
+* [PHP converter from C to C+=](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/feminazizer.php)
+* [Social media lynchmob initiator for misogynistic GitHub repo](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/github_report.Xe)
+
 ###Support groups and tools for Further Equality
 * [PrivCheck IDE for C+=](https://bitbucket.org/japesinator/privcheck-ide)
 * [Ver (was vim) syntax-highlighting for C+=](https://bitbucket.org/FeministSoftwareFoundation/c-syntax-highlighting-for-ver-was-vim/overview)
