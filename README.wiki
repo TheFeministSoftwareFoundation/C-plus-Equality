@@ -16,7 +16,7 @@ Now hosted on Google Code, as *[https://github.com/FeministSoftwareFoundation/C-
 
 = News =
 
-*[https://bitbucket.org/FeministSoftwareFoundation/inherpreter Our new inHERpreter is in the making, based on the code of tcc. Join us!]*
+*[https://code.google.com/p/inherpreter/ Our new inHERpreter is in the making, based on the code of tcc. Join us!]*
 
 = C+= =
 
@@ -71,7 +71,7 @@ http://i.imgur.com/kMij1At.png
 
 Our in_her_preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it. In_her_preter usage is as follows: ./inherpret program.Xe
 
-	*[https://bitbucket.org/FeministSoftwareFoundation/inherpreter Our new inHERpreter is in the making, based on the code of tcc. Join us!]*
+	*[https://code.google.com/p/inherpreter/ Our new inHERpreter is in the making, based on the code of tcc. Join us!]*
 
 = On 1s and 0s =
 
