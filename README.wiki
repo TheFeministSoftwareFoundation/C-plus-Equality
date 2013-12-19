@@ -1,4 +1,4 @@
-<wiki:video url="http://www.youtube.com/watch?v=YP9kLSEfHTM"/>
+<wiki:video url="http://www.youtube.com/watch?v=YP9kLSEfHTM"/ width="800">
 
 http://i.imgur.com/ZhTU8r3.png
 
