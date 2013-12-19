@@ -1,10 +1,10 @@
-<wiki:video url="http://www.youtube.com/watch?v=YP9kLSEfHTM"/ width="800">
-
 http://i.imgur.com/ZhTU8r3.png
 
-http://i.imgur.com/KXN9qCc.png
-
 A project of the [http://feministsoftwarefoundation.org/ Feminist Software Foundation]. Feminist software is a cornerstone of any modern free society. We build this foundation.
+
+<wiki:video url="http://www.youtube.com/watch?v=YP9kLSEfHTM"/ width="800">
+
+http://i.imgur.com/KXN9qCc.png
 
 Inspired by the [http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages ground-breaking feminist research of Arielle Schlesinger].
 
