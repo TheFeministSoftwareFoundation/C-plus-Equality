@@ -31,7 +31,7 @@ C+=
 
 **C+=** (pronounced either *C-plus-Equality*, or *See Equality*) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
-**Note: This is a programming language written by and for FEMINISTS, not WOMEN. LEARN THE DIFFERENCE, YOU MISOGYNIST!**
+**Note: This is a programming language written by and for FEMINISTS, not WOMEN. LEARN THE DIFFERENCE!**
 
 Our IRC: [#cplusequality@irc://chat.freenode.net](http://webchat.freenode.net?channels=%23cplusequality)
 
@@ -162,7 +162,7 @@ Data types and Structures
 ***
 
 * **Integers, doubles, and longs** are deemed to be unnecessary labels and stereotypes for numerical values. A number can be an integer or a a double or a long if xir so identifies xirself. All numerical values will thus be represented as **_xe_**, and it is up to the value xirself to choose to identify as whatever xir chooses to identify as.
-* **Booleans** are __banned__ for imposing a binary view of true and false. **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic. **No means no, and yes could mean no as well. Stop raping women.**
+* **Booleans** are __banned__ for imposing a binary view of true and false. **C+=** operates paralogically and transcends the trappings of Patriarchal binary logic. **No means no, and yes could mean no as well.**
 * Instead of **Booleans** we now have **Boolean+**, or **_bool+_** for short, which has three states: *true, false, and maybe*. The number of states may go up as intersectionality of the moment calls for such a need.
 * To illustrate the relationship between **Booleans** and **Boolean+**, consider the following flowchart:
 ![BooleanPlus](http://i.imgur.com/elpljBY.png)
@@ -177,7 +177,7 @@ Data types and Structures
 
 ***
 
-* **Matrices** are strongly encouraged, due to the word's etymological roots tracing back to *mother* in Latin. **Matrices** are to be ranked and sorted by their relative Privilege. Their relative levels of Privilege are to be revealed only if the programmer and the user are both women. If you are a man reading this README, **Matrices** don't have privileges and are eternally oppressed. Instead, consider checking your own privilege, and stop raping women.
+* **Matrices** are strongly encouraged, due to the word's etymological roots tracing back to *mother* in Latin. **Matrices** are to be ranked and sorted by their relative Privilege. Their relative levels of Privilege are to be revealed only if the programmer and the user are both women. If you are a man reading this README, **Matrices** don't have privileges and are eternally oppressed. Instead, consider checking your own privilege.
 
 Resource management
 ===================
