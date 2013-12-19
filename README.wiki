@@ -22,7 +22,7 @@ Now hosted on Google Code, as *[https://github.com/FeministSoftwareFoundation/C-
 
 *C+=* (pronounced either _C-plus-Equality_, or _See Equality_) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
-*Note: This is a programming language written by and for FEMINISTS, not WOMEN. LEARN THE DIFFERENCE, YOU MISOGYNIST!*
+*Note: This is a programming language written by and for FEMINISTS, not WOMEN. LEARN THE DIFFERENCE!*
 
 Our IRC: [http://webchat.freenode.net?channels=%23cplusequality #cplusequality@irc://chat.freenode.net]
 
