@@ -70,6 +70,11 @@ Our in*her*preter is still in its early stages, but it is perfectly fine and don
 
 **[Our new inHERpreter is in the making, based on the code of tcc.  Join us!](https://bitbucket.org/FeministSoftwareFoundation/inherpreter)**
 
+Artwork
+=======
+
+No feminist project is complete without its share of feminist artwork.  [See our repository for the current cache!](https://gitorious.org/c-plus-equality/c-plus-equality/source/assets)  New artwork submissions are always welcome.
+
 On 1s and 0s
 ============
 
