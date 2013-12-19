@@ -63,7 +63,7 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 	* [https://bitbucket.org/japesinator/privcheck-ide PrivCheck IDE for C+=]
 	* [https://bitbucket.org/FeministSoftwareFoundation/c-syntax-highlighting-for-ver-was-vim/overview Ver (was vim) syntax-highlighting for C+=]
 
-[[Image:http://i.imgur.com/kMij1At.png|frame|none|alt=|caption Inherpreter]]
+http://i.imgur.com/kMij1At.png
 
 Our in_her_preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it. In_her_preter usage is as follows: ./inherpret program.Xe
 
@@ -103,7 +103,7 @@ No work done is worthwhile if your friends and followers don't know about it. Th
 
 	* In addition to _yell()_, *C+=* also provides _tweet(), fbShare(), tumblrBlog(), and redditSteal()_ for a diverse social experience of coding output.
 	* Our upcoming Inherpreter 2.0, an LLVM frontend, is going to feature full Social API integration. You must now log in to one of the many social networks before any coding is possible. You can also chat with your friends and _like()_ their social code as you code.
-	* Posting or hosting on GitHub is strictly prohibited as GitHub, self-proclaimed "social coding hub", is actually _deeply misogynistic and refuses to host the code of C+=_. *Any C+= code hosted on GitHub will automatically trigger all of tweet(), fbShare(), tumblrBlog(), and redditSteal() functions to yell() about GitHub's misogyny, and will not stop until any onlooking coders are all exposed, doxxed, fired, lynched, and castrated.*
+	* Posting or hosting on GitHub and BitBucket is strictly prohibited as they, self-proclaimed "social coding hubs", are actually _deeply misogynistic and refuses to host the code of C+=_. *Any C+= code hosted on GitHub or BitBucket will automatically trigger all of tweet(), fbShare(), tumblrBlog(), and redditSteal() functions to yell() about their misogyny, and will not stop until any onlooking coders are all exposed, doxxed, fired, lynched, and castrated.*
 
 = Functions and Procedures =
 
@@ -139,7 +139,8 @@ All *functions and procedures* are now called *_lobbying*_, because actually doi
 	* *Integers, doubles, and longs* are deemed to be unnecessary labels and stereotypes for numerical values. A number can be an integer or a a double or a long if xir so identifies xirself. All numerical values will thus be represented as *_xe*_, and it is up to the value xirself to choose to identify as whatever xir chooses to identify as.
 	* *Booleans* are *banned* for imposing a binary view of true and false. *C+=* operates paralogically and transcends the trappings of Patriarchal binary logic. *No means no, and yes could mean no as well.*
 	* Instead of *Booleans* we now have *Boolean+*, or *_bool+*_ for short, which has three states: _true, false, and maybe_. The number of states may go up as intersectionality of the moment calls for such a need.
-	* To illustrate the relationship between *Booleans* and *Boolean+*, consider the following flowchart: [[Image:http://i.imgur.com/elpljBY.png|BooleanPlus]]
+	* To illustrate the relationship between *Booleans* and *Boolean+*, consider the following flowchart: 
+http://i.imgur.com/elpljBY.png
 	* *Strings* are called *Ideals*, or *_id*_ for short. Feminist ideals are usually extremely well written, detailed and lengthy, clearly longer than what could be held with a simple char array.
 	* *Characters* are now called *_strong*_.
 	* *Pointers* are called *preferred pronouns*, or *_prepro*_ for short. _Pointer_ is phallic and is thus problematic. All *_prepro*_s of void type by default — in fact, all variables must be instantiated without type, and are allowed to randomly choose their type during execution.
