@@ -1,11 +1,14 @@
   ![FSF](http://i.imgur.com/ZhTU8r3.png)
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/GtP1EaPzRrM" frameborder="0" allowfullscreen></iframe>
+
   ![C-plus-Equality](http://i.imgur.com/KXN9qCc.png)
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/). Feminist software is a cornerstone of any modern free society. We build this foundation.
 
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
-Now hosted on BitBucket, as **[GitHub proves to be too misogynistic to support a feminist programming language](https://github.com/FeministSoftwareFoundation/C-plus-Equality)**.
+Now hosted on Gitorious, as **[GitHub](https://github.com/FeministSoftwareFoundation/C-plus-Equality), [BitBucket]([https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality), and [Google](https://code.google.com/p/c-plus-equality/) all prove to be too misogynistic to support a feminist programming language**.
 
 News
 ====
