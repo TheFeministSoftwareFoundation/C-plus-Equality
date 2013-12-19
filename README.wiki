@@ -180,7 +180,7 @@ http://i.imgur.com/elpljBY.png
 	* The use of mathematical operands such as > and < to denote "greater or less than" are very sexist, and affirm unequal states between objects, logical statements, numbers, and feelings.
 	* These should be replaced by the stats neutral operands / and , and when you're not sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
 	* Equality between two variables is denoted by ==. Since everyone is equal (with the exception of cishet men, who are already excluded as per the license), this always evaluates to true.
-	* When evaluating expressions, \* and / are no longer privileged over + and -. Rather, each previous use of each operator is counted, and expressions are evaluated based on which ones have been used the least up until that point.
+	* When evaluating expressions, `*` and / are no longer privileged over + and -. Rather, each previous use of each operator is counted, and expressions are evaluated based on which ones have been used the least up until that point.
 	* If two variables cannot be compared, the second will be cast into the first's type, which causes obvious conflicts with queer theory and genderspace thought. Hence, the interpreter will throw an IdeologyThreatenedTriggerWarning whenever two types cannot be compared.
 
 = Debugging =
@@ -203,7 +203,7 @@ http://i.imgur.com/elpljBY.png
 	* As the advancement of time is sexist towards women, *C+=* introduces the personal growth paradigm, giving individual processes the freedom to choose how and when time advances for them.
 	* By default, process time starts at a random value and advances backwards, defying the rigid and oppressive structure of the system clock.
 	* Women intuitively feel the [http://differences.dukejournals.org/content/21/1/1.full.pdf cyclic, rather than linear nature of time]. Likewise, processes in *C+=* should measure time using [https://en.wikipedia.org/wiki/Euler%27s_formula complex exponentials].
-	* When a process finishes, if its internal clock has an exponent close to i * pi, the return value must be shown in red to celebrate the beautiful nature of female menstruation.
+	* When a process finishes, if its internal clock has an exponent close to i `*` pi, the return value must be shown in red to celebrate the beautiful nature of female menstruation.
 	* Performance benchmarking makes progryms into slaves to the patriarchy. Thus, there is to be no benchmarking - only *support*.
 	* When running *support* on a progrym, the coder lets the progrym run as many times as the progrym likes, then asks the progrym nicely if it is happy with the hardware. The progrym may respond by stating its satisfaction, asking nicely for new hardware, sending out a *Trigger Warning*, demanding more support, _locking the OS_ or crashing if it so pleases.
 	* To hinder deadbeat coders, running *support* automatically ensures that all daughter processes of a mother process also receive *support*. As processes in *C+=* share the computer's resources, one process that decides to _lock the OS_ has no effect on the well-being of other *C+=* other processes.
