@@ -8,7 +8,7 @@ A project of the [http://feministsoftwarefoundation.org/ Feminist Software Found
 
 Inspired by the [http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages ground-breaking feminist research of Arielle Schlesinger].
 
-Now hosted on Google Code, as *[https://github.com/FeministSoftwareFoundation/C-plus-Equality GitHub] and [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality BitBucket] both prove to be too misogynistic to support a feminist programming language].*
+Now hosted on Google Code, as *[https://github.com/FeministSoftwareFoundation/C-plus-Equality GitHub] and [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality BitBucket] both prove to be too misogynistic to support a feminist programming language.*
 
 = Table of Contents =
 
