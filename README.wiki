@@ -10,6 +10,10 @@ Inspired by the [http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism
 
 Now hosted on Google Code, as *[https://github.com/FeministSoftwareFoundation/C-plus-Equality GitHub] and [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality BitBucket] both prove to be too misogynistic to support a feminist programming language].*
 
+= Table of Contents =
+
+<wiki:toc max_depth="1" />
+
 = News =
 
 *[https://bitbucket.org/FeministSoftwareFoundation/inherpreter Our new inHERpreter is in the making, based on the code of tcc. Join us!]*
