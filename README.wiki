@@ -36,7 +36,7 @@ Our IRC: [http://webchat.freenode.net?channels=%23cplusequality #cplusequality@i
 	# Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth". After birth, a program rolls for a 40% chance of executing literally as the code is written, 40% of being [https://en.wikipedia.org/wiki/Gibberish "psychoanalytically incompatible"], and 40% of executing by a metaphorical epistemology the order of the functions found in main().
 	# Programs are never to be [https://en.wikipedia.org/wiki/Fork_(system_call) "forked"], as the word has clear misogynistic tendencies and is deeply problematic. Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission. "Forking" will henceforth be called [https://en.wikipedia.org/wiki/Consent "consenting"], and it is entirely up to the program to decide if the consent stands valid, regardless of the progress of the system clock.
 	# Forced program termination is not allowed unless the program consents to it. The process is part of the choice of the program, not the programmer.
-	# Licensing: the [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/LICENSE Feminist Software Foundation License].
+	# Licensing: the [https://code.google.com/p/c-plus-equality/source/browse/LICENSE Feminist Software Foundation License].
 
 = Code Examples =
 
@@ -44,19 +44,19 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 
 === Foundations of Empowerment ===
 
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/hellofeminists.Xe Hello, Feminists!]
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/fizzbuzz.Xe FizzBuzz implementation]
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/PrivilegeCheck.Xir Privilege Checker]
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/diamonds.Xe Diamonds]
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/sieve.Xe Sieve]
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/femsort.Xe Femsort]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/hellofeminists.Xe Hello, Feminists!]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/fizzbuzz.Xe FizzBuzz implementation]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/PrivilegeCheck.Xir Privilege Checker]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/diamonds.Xe Diamonds]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/sieve.Xe Sieve]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/femsort.Xe Femsort]
 
 === More Advanced Patriarchy-Smashing ===
 
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/brainfuck.Xe A Brainfuck interpreter]
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/pacwomyn.Xe PacWomyn game]
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/feminazizer.php PHP converter from C to C+=]
-	* [https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/github_report.Xe Social media lynchmob initiator for misogynistic GitHub repo]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/brainfuck.Xe A Brainfuck interpreter]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/pacwomyn.Xe PacWomyn game]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/feminazizer.php PHP converter from C to C+=]
+	* [https://code.google.com/p/c-plus-equality/source/browse/examples/github_report.Xe Social media lynchmob initiator for misogynistic GitHub repo]
 
 === Support groups and tools for Further Equality ===
 
