@@ -47,12 +47,12 @@ Code Examples
 The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and maybe, if we have the time, a microkernel, but maybe that will never be completed, and we'll just use another person's kernel instead, who knows). For the time being, here are our code examples:
 
 ###Foundations of Empowerment
-* [Hello, Feminists!](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/hellofeminists.Xe)
-* [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/fizzbuzz.Xe)
-* [Privilege Checker](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/PrivilegeCheck.Xir)
-* [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/diamonds.Xe)
-* [Sieve](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/sieve.Xe)
-* [Femsort](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/examples/femsort.Xe)
+* [Hello, Feminists!](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/hellofeminists.Xe)
+* [FizzBuzz implementation](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/fizzbuzz.Xe)
+* [Privilege Checker](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/PrivilegeCheck.Xir)
+* [Diamonds](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/diamonds.Xe)
+* [Sieve](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/sieve.Xe)
+* [Femsort](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/femsort.Xe)
 
 ###More Advanced Patriarchy-Smashing
 * [A Brainfuck interpreter](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/brainfuck.Xe)
