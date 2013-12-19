@@ -13,7 +13,7 @@ Now hosted on Gitorious, as **[GitHub](https://github.com/FeministSoftwareFounda
 News
 ====
 
-**[Our new inHERpreter is in the making, based on the code of tcc.  Join us!](https://bitbucket.org/FeministSoftwareFoundation/inherpreter)**
+**[Our new inHERpreter is in the making, based on the code of tcc.  Join us!](https://gitorious.org/inherpreter/inherpreter)**
 
 C+=
 ===============
@@ -68,7 +68,7 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 
 Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it. In*her*preter usage is as follows: ./inherpret program.Xe
 
-**[Our new inHERpreter is in the making, based on the code of tcc.  Join us!](https://bitbucket.org/FeministSoftwareFoundation/inherpreter)**
+**[Our new inHERpreter is in the making, based on the code of tcc.  Join us!](https://gitorious.org/inherpreter/inherpreter)**
 
 Artwork
 =======
