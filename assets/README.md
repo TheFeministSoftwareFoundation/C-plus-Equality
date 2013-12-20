@@ -8,6 +8,6 @@ directory are to be used on social media networks.
 the Boolean and Boolean+ diagrams. 'Source' contains the Adobe InDesign source
 of some of the images.
 
-See CREDIT for specific credit for specific file.
+See CREDIT for specific credit for specific files.
 
 Love you all, Check Your Privileges!
