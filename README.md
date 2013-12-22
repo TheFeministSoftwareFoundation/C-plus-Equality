@@ -28,6 +28,11 @@ News
 
 **[Our new inHERpreter 2.0 is in the making, based on the code of tcc.  It works (some-what)!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
 
+How to contribute
+=================
+
+Absolutely no coding experience is necessary: all code are equal in the eyes of the Feminist Software Foundation. For detailed instructions in contributing (whether sending in patches, new code, or new artwork), [please consult our CONSENT.md document.](https://gitorious.org/c-plus-equality/c-plus-equality/source/CONSENT.md)
+
 C+=
 ===============
 
