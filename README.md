@@ -23,6 +23,8 @@ Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http:
 
 ~~Now hosted on Gitorious, as **[GitHub](https://github.com/FeministSoftwareFoundation/C-plus-Equality), [BitBucket](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality), and [Google](https://code.google.com/p/c-plus-equality/) all prove to be too misogynistic to support a feminist programming language**.~~  A feminist's fight is never finished!
 
+[![ScreenShot](http://i.imgur.com/MWW01tL.png)](https://www.youtube.com/watch?v=GtP1EaPzRrM)
+
 News
 ====
 
