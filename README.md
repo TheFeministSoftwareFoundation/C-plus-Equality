@@ -25,16 +25,6 @@ Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http:
 
 [![ScreenShot](http://i.imgur.com/MWW01tL.png)](https://www.youtube.com/watch?v=GtP1EaPzRrM)
 
-News
-====
-
-**[Our new inHERpreter 2.0 is in the making, based on the code of tcc.  It works (some-what)!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
-
-How to contribute
-=================
-
-Absolutely no coding experience is necessary: all code are equal in the eyes of the Feminist Software Foundation. For detailed instructions in contributing (whether sending in patches, new code, or new artwork), [please consult our CONSENT.md document.](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/CONSENT.md)
-
 C+=
 ===============
 
@@ -42,7 +32,17 @@ C+=
 
 **Note: This is a programming language written by and for FEMINISTS, not WOMEN. LEARN THE DIFFERENCE!**
 
-Our IRC: [#cplusequality@irc://chat.freenode.net](http://webchat.freenode.net?channels=%23cplusequality)
+Our IRC: #cplusequality@irc://chat.freenode.net
+
+IRC webchat: [http://webchat.freenode.net?channels=%23cplusequality](http://webchat.freenode.net?channels=%23cplusequality)
+
+### News
+
+**[Our new inHERpreter 2.0 is in the making, based on the code of tcc.  It works (some-what)!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
+
+### How to contribute
+
+Absolutely no coding experience is necessary: all code are equal in the eyes of the Feminist Software Foundation. For detailed instructions in contributing (whether sending in patches, new code, or new artwork), [please consult our CONSENT.md document.](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/CONSENT.md)
 
 Philosophy
 ==========
