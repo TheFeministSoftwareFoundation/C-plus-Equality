@@ -64,7 +64,9 @@ Philosophy
 Code Examples
 =============
 
-The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and maybe, if we have the time, a microkernel, but maybe that will never be completed, and we'll just use another person's kernel instead, who knows). For the time being, here are our code examples:
+The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and maybe, if we have the time, a microkernel, but maybe that will never be completed, and we'll just use another person's kernel instead, who knows).
+
+Ultimately, the Feminist Software Foundation envisions an OS not unsimilar to the [Politically Correct UNIX](http://www.sjacob.org/home/humour/PC-UNIX.html), but written in **C+=**.  For the time being, here are our code examples:
 
 ###Foundations of Empowerment
 * [Hello, Feminists!](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/hellofeminists.Xe)
