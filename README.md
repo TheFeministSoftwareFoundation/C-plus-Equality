@@ -31,7 +31,7 @@ News
 How to contribute
 =================
 
-Absolutely no coding experience is necessary: all code are equal in the eyes of the Feminist Software Foundation. For detailed instructions in contributing (whether sending in patches, new code, or new artwork), [please consult our CONSENT.md document.](https://gitorious.org/c-plus-equality/c-plus-equality/source/CONSENT.md)
+Absolutely no coding experience is necessary: all code are equal in the eyes of the Feminist Software Foundation. For detailed instructions in contributing (whether sending in patches, new code, or new artwork), [please consult our CONSENT.md document.](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/CONSENT.md)
 
 C+=
 ===============
@@ -57,7 +57,7 @@ Philosophy
 10. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth". After birth, a program rolls for a 40% chance of executing literally as the code is written, 40% of being ["psychoanalytically incompatible"](https://en.wikipedia.org/wiki/Gibberish), and 40% of executing by a metaphorical epistemology the order of the functions found in main().
 11. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_(system_call)), as the word has clear misogynistic tendencies and is deeply problematic. Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission. "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, regardless of the progress of the system clock.
 12. Forced program termination is not allowed unless the program consents to it. The process is part of the choice of the program, not the programmer.
-13. Licensing: **C+=** is double-licensed under the [Feminist Software Foundation Public License](https://gitorious.org/c-plus-equality/c-plus-equality/source/mistress/LICENSE.FemFSPL) and the [GPL v3](https://gitorious.org/c-plus-equality/c-plus-equality/source/mistress/LICENSE.GPL).
+13. Licensing: **C+=** is double-licensed under the [Feminist Software Foundation Public License](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/mistress/LICENSE.FemFSPL) and the [GPL v3](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/mistress/LICENSE.GPL).
 
 Code Examples
 =============
@@ -65,18 +65,18 @@ Code Examples
 The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and maybe, if we have the time, a microkernel, but maybe that will never be completed, and we'll just use another person's kernel instead, who knows). For the time being, here are our code examples:
 
 ###Foundations of Empowerment
-* [Hello, Feminists!](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/hellofeminists.Xe)
-* [FizzBuzz implementation](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/fizzbuzz.Xe)
-* [Privilege Checker](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/PrivilegeCheck.Xir)
-* [Diamonds](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/diamonds.Xe)
-* [Sieve](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/sieve.Xe)
-* [Femsort](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/femsort.Xe)
+* [Hello, Feminists!](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/hellofeminists.Xe)
+* [FizzBuzz implementation](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/fizzbuzz.Xe)
+* [Privilege Checker](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/PrivilegeCheck.Xir)
+* [Diamonds](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/diamonds.Xe)
+* [Sieve](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/sieve.Xe)
+* [Femsort](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/femsort.Xe)
 
 ###More Advanced Patriarchy-Smashing
-* [A Brainfuck interpreter](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/brainfuck.Xe)
-* [PacWomyn game](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/pacwomyn.Xe)
-* [PHP converter from C to C+=](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/feminazizer.php)
-* [Social media lynchmob initiator for misogynistic GitHub repo](https://gitorious.org/c-plus-equality/c-plus-equality/source/examples/github_report.Xe)
+* [A Brainfuck interpreter](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/brainfuck.Xe)
+* [PacWomyn game](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/pacwomyn.Xe)
+* [PHP converter from C to C+=](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/feminazizer.php)
+* [Social media lynchmob initiator for misogynistic GitHub repo](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/github_report.Xe)
 
 ###Support groups and tools for Further Equality
 * [PrivCheck IDE for C+=](https://bitbucket.org/japesinator/privcheck-ide)
@@ -91,7 +91,7 @@ Our in*her*preter is still in its early stages, but it is perfectly fine and don
 Artwork
 =======
 
-No feminist project is complete without its share of feminist artwork.  [See our repository for the current cache!](https://gitorious.org/c-plus-equality/c-plus-equality/source/assets)  New artwork submissions are always welcome.
+No feminist project is complete without its share of feminist artwork.  [See our repository for the current cache!](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/assets)  New artwork submissions are always welcome.
 
 On 1s and 0s
 ============
