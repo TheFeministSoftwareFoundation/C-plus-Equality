@@ -8,9 +8,9 @@ through the process.
 Ask the project [on Gitorious](https://gitorious.org/c-plus-equality/c-plus-equality/) for consent.
 
 ```
-$ git clone git@gitorious.org:c-plus-equality/your-repos-name.git
+$ git clone git@github.com:c-plus-equality/your-repos-name.git
 $ cd repo
-$ git remote add upstream git@gitorious.org:c-plus-equality/c-plus-equality.git
+$ git remote add upstream git@github.com:Feminist-Software-Foundation/C-plus-Equality.git
 ```
 
 ### BRANCH
