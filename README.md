@@ -38,7 +38,7 @@ IRC webchat: [http://webchat.freenode.net?channels=%23cplusequality](http://webc
 
 ### News
 
-**[Our new inHERpreter 2.0 is in the making, based on the code of tcc.  It works (some-what)!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
+**[Our new inHERpreter 2.0 is in the making, based on the code of tcc.  It runs a subset of C+= successfully!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
 
 ### How to contribute
 
@@ -88,9 +88,11 @@ Ultimately, the Feminist Software Foundation envisions an OS not unsimilar to th
 
  ![Inherpreter](http://i.imgur.com/kMij1At.png)
 
-Our in*her*preter is still in its early stages, but it is perfectly fine and don't you dare criticise/-ize and shame it. In*her*preter usage is as follows: ./inherpret program.Xe
+In*her*preter 1.0 is now deprecated and depreciated.  Consider using our inHERpreter 2.0 instead.
 
-**[Our new inHERpreter 2.0 is in the making, based on the code of tcc.  It works (some-what)!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
+That said, in*her*preter 1.0 is perfectly fine and don't you dare criticise/-ize and shame it. In*her*preter 1.0 usage is as follows: ./inherpret program.Xe
+
+**[Our new inHERpreter 2.0 lives in its own repository, and is based on the code of tcc.  It can already ~~compile~~interpret a large subset of C+=!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
 
 Artwork
 =======
