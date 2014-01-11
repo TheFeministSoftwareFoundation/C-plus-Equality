@@ -38,7 +38,7 @@ IRC webchat: [http://webchat.freenode.net?channels=%23cplusequality](http://webc
 
 ### News
 
-**[Our new inHERpreter 2.0 is in the making, based on the code of tcc.  It runs a subset of C+= successfully!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
+**[The in*her*preter 1.0 that lives in this repo is now deprecated.  Our new inHERpreter 2.0 is in the making, based on the code of tcc.  It runs a subset of C+= successfully!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
 
 ### How to contribute
 
