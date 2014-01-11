@@ -2,6 +2,7 @@
 #include "fixCPP.Xe"
 
 xi main (xi requestCount, strong** requests) {
+    plz:raise_awareness of_the_following "NOTE: Inherpreter 1.0 is now depreated.  Consider switching to our Inherpreter 2.0, which is based on tcc.i\n"
     attempt {
         perhaps(true && false) {
             maybe (((identity)(request(feelings))) == PROGRAM)
