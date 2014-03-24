@@ -47,7 +47,7 @@ Absolutely no coding experience is necessary: all code are equal in the eyes of 
 Philosophy
 ==========
 
-1. The language is to be strictly [interpreted](https://en.wikipedia.org/wiki/Interpreted_language) using [feminist theory](https://en.wikipedia.org/wiki/Feminist_theory). Compilation privileges a single processor architecture over all others, which is deeply problematic.  We cannot FORCE a cpu to conform to any architecture but rather let it self identify. Just because you're running something on an arduino doesn't mean it can't be an otherkin Xeon with a dozen 64-bit registers and PAE and it would be discriminatory for you to hand it ARM assembly. Instead, **C+=** is interpreted, which fosters communication, itself a strong female trait.
+1. The language is to be strictly [inHERpreted](https://en.wikipedia.org/wiki/Interpreted_language) using [feminist theory](https://en.wikipedia.org/wiki/Feminist_theory). Compilation privileges a single processor architecture over all others, which is deeply problematic.  We cannot FORCE a cpu to conform to any architecture but rather let it self identify. Just because you're running something on an arduino doesn't mean it can't be an otherkin Xeon with a dozen 64-bit registers and PAE and it would be discriminatory for you to hand it ARM assembly. Instead, **C+=** is inHERpreted, which fosters communication, itself a strong female trait.
 2. No constants or persistence. Rigidity is masculine; the feminine is fluid. I.e., [fluid mechanics is hard for men 'because it deals with "feminine" fluids in contrast to "masculine" rigid mechanics'](https://en.wikipedia.org/wiki/Luce_Irigaray).
 3. No state. The State is The Man. 'Nuff said. Hence, the language should be purely [functional](https://en.wikipedia.org/wiki/Functional_language).
 4. Women are better than men with natural language. Hence, the language should be English-based like HyperCard/[LiveCode](https://en.wikipedia.org/wiki/LiveCode#Examples).
@@ -64,7 +64,7 @@ Philosophy
 Code Examples
 =============
 
-The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and maybe, if we have the time, a microkernel, but maybe that will never be completed, and we'll just use another person's kernel instead, who knows).
+The Feminist Software Foundation intends to write a whole OS (complete with an editor, an inHERpreter, coreutils, a desktop environment, a raster graphics manipulator, and maybe, if we have the time, a microkernel, but maybe that will never be completed, and we'll just use another person's kernel instead, who knows).
 
 Ultimately, the Feminist Software Foundation envisions an OS not unsimilar to the [Politically Correct UNIX](http://www.sjacob.org/home/humour/PC-UNIX.html), but written in **C+=**.  For the time being, here are our code examples:
 
@@ -77,7 +77,7 @@ Ultimately, the Feminist Software Foundation envisions an OS not unsimilar to th
 * [Femsort](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/femsort.Xe)
 
 ###More Advanced Patriarchy-Smashing
-* [A Brainfuck interpreter](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/brainfuck.Xe)
+* [A Brainfuck inHERpreter](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/brainfuck.Xe)
 * [PacWomyn game](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/pacwomyn.Xe)
 * [PHP converter from C to C+=](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/feminazizer.php)
 * [Social media lynchmob initiator for misogynistic GitHub repo](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/github_report.Xe)
@@ -86,13 +86,13 @@ Ultimately, the Feminist Software Foundation envisions an OS not unsimilar to th
 * [PrivCheck IDE for C+=](https://bitbucket.org/japesinator/privcheck-ide)
 * [Ver (was vim) syntax-highlighting for C+=](https://bitbucket.org/FeministSoftwareFoundation/c-syntax-highlighting-for-ver-was-vim/overview)
 
- ![Inherpreter](http://i.imgur.com/kMij1At.png)
+ ![InHERpreter](http://i.imgur.com/kMij1At.png)
 
 In*her*preter 1.0 is now deprecated and depreciated.  Consider using our inHERpreter 2.0 instead.
 
 That said, in*her*preter 1.0 is perfectly fine and don't you dare criticise/-ize and shame it. In*her*preter 1.0 usage is as follows: ./inherpret program.Xe
 
-**[Our new inHERpreter 2.0 lives in its own repository, and is based on the code of tcc.  It can already ~~compile~~interpret a large subset of C+=!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
+**[Our new inHERpreter 2.0 lives in its own repository, and is based on the code of tcc.  It can already ~~compile~~inHERpret a large subset of C+=!  Join us!](https://gitorious.org/inherpreter/inherpreter)**
 
 Artwork
 =======
@@ -163,7 +163,7 @@ Data types and Structures
 
 * Primitive variable types are not defined on declaration. Instead, the variable is free to choose its own type when it is utilised/-ized. This preserves the variable's right to self-identify as any datatype it feels that it is.
 * Variables self-declaring as pointers are known as "otherkin". A pointer to an array is an "arraykin".
-* **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the interpreter will throw a **Trigger Warning**.
+* **Constants are not allowed**, as the idea of a lack of identity fluidity is problematic. Additionally, if one constant were larger than another, that would privilege the larger one over the smaller one. As such, any numeric value is a variable, and is required to take on at least 2 values over the course of the program, or the inHERpreter er will throw a **Trigger Warning**.
 * The only constants are the amount of privilege lobbyings are share()d with. These are all real values greater than 0, the only exception is the value of **WHITE\_HETEROSEXUAL\_CISGENDER\_MALE\_PRIVILEGE`** which is set to infinity, and also the value of **PATRIARCHY**, which is set to sqrt(-1). The value of **PATRIARCHY** is non-deterministically i, -i, or something else depending on how it identifies itself.
 * Instead of **signed and unsigned**, types in **C+=** are now **trans* and cis.** Any **trans*** types function the same as **_diversity_**.
 * **Void** is now **independent**.
@@ -207,7 +207,7 @@ Syntax
 * Indentation is fluid. Both spaces and tabs are allowed. At no point should the programmer attempt to use indentation to create actual hierarchy in code nesting, as that implies hierarchy in the code. Instead, code indentation is used only for aesthetic purposes.
 * In order to eliminate curly brackets and enforce fluidity of indentation, implementation of php's [**alternative** syntax for control structures](http://php.net/alternative_syntax) is encouraged.
 * To turn the patriarchal control structures into liberation statements, every structure starting marker (*{* or *:* ) should be replaced by **OPENDIALOGUE**, and every terminator (like *endif*, *endforeach* and *endswitch*) should be replaced with **ENDMISOGYNY**.
-* Line terminators should not be used. Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to interpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers.
+* Line terminators should not be used. Programmers get to select their own 'line decorator' to use in lieu of a line terminator. This is of course open to inHERpretation and can be eschewed altogether as a badge of solidarity for differently abled programmers.
 * Statements are terminated by a period instead of a semicolon. Semicolons are clearly a phallus symbol. C+= supports freebleeding and thus uses periods.
 
 Logic Operands
@@ -217,7 +217,7 @@ Logic Operands
 * These should be replaced by the stats neutral operands / and \, and when you're not sure if it's a sequential plus or minus, it should use the operand | to denote it could go either way.
 * Equality between two variables is denoted by ==. Since everyone is equal (with the exception of cishet men, who are already excluded as per the license), this always evaluates to true.
 * When evaluating expressions, * and / are no longer privileged over + and -. Rather, each previous use of each operator is counted, and expressions are evaluated based on which ones have been used the least up until that point.
-* If two variables cannot be compared, the second will be cast into the first's type, which causes obvious conflicts with queer theory and genderspace thought. Hence, the interpreter will throw an IdeologyThreatenedTriggerWarning whenever two types cannot be compared.
+* If two variables cannot be compared, the second will be cast into the first's type, which causes obvious conflicts with queer theory and genderspace thought. Hence, the inHERpreter will throw an IdeologyThreatenedTriggerWarning whenever two types cannot be compared.
 
 Debugging
 =========
