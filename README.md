@@ -1,13 +1,3 @@
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-46592357-3', 'gitorious.org');
-  ga('send', 'pageview');
-
-</script>
 
   ![FSF](http://i.imgur.com/ZhTU8r3.png)
 
@@ -21,7 +11,8 @@ A project of the [Feminist Software Foundation](http://feministsoftwarefoundatio
 
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
-~~Now hosted on Gitorious, as **[GitHub](https://github.com/FeministSoftwareFoundation/C-plus-Equality), [BitBucket](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality), and [Google](https://code.google.com/p/c-plus-equality/) all prove to be too misogynistic to support a feminist programming language**.~~  A feminist's fight is never finished!
+The Phoenix Arises from its Ashes. 
+**~~Now hosted on Gitorious, as **[GitHub](https://github.com/FeministSoftwareFoundation/C-plus-Equality), [BitBucket](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality), and [Google](https://code.google.com/p/c-plus-equality/) all prove to be too misogynistic to support a feminist programming language**.~~**  A feminist's fight is never finished!
 
 [![ScreenShot](http://i.imgur.com/MWW01tL.png)](https://www.youtube.com/watch?v=GtP1EaPzRrM)
 
@@ -42,7 +33,7 @@ IRC webchat: [http://webchat.freenode.net?channels=%23cplusequality](http://webc
 
 ### How to contribute
 
-Absolutely no coding experience is necessary: all code are equal in the eyes of the Feminist Software Foundation. For detailed instructions in contributing (whether sending in patches, new code, or new artwork), [please consult our CONSENT.md document.](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/CONSENT.md)
+Absolutely no coding experience is necessary: all code are equal in the eyes of the Feminist Software Foundation. For detailed instructions in contributing (whether sending in patches, new code, or new artwork), [please consult our CONSENT.md document.](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/CONSENT.md)
 
 Philosophy
 ==========
@@ -59,7 +50,7 @@ Philosophy
 10. Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth". After birth, a program rolls for a 40% chance of executing literally as the code is written, 40% of being ["psychoanalytically incompatible"](https://en.wikipedia.org/wiki/Gibberish), and 40% of executing by a metaphorical epistemology the order of the functions found in main().
 11. Programs are never to be ["forked"](https://en.wikipedia.org/wiki/Fork_\(system_call\)), as the word has clear misogynistic tendencies and is deeply problematic. Instead, programmers may never demand "forking", but ask for the program to voluntarily give permission. "Forking" will henceforth be called ["consenting"](https://en.wikipedia.org/wiki/Consent), and it is entirely up to the program to decide if the consent stands valid, regardless of the progress of the system clock.
 12. Forced program termination is not allowed unless the program consents to it. The process is part of the choice of the program, not the programmer.
-13. Licensing: **C+=** is double-licensed under the [Feminist Software Foundation Public License](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/LICENSE.FemSFPL) and the [GPL v3](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/LICENSE.GPL).
+13. Licensing: **C+=** is double-licensed under the [Feminist Software Foundation Public License](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/LICENSE.FemSFPL) and the [GPL v3](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/LICENSE.GPL).
 
 Code Examples
 =============
@@ -69,18 +60,18 @@ The Feminist Software Foundation intends to write a whole OS (complete with an e
 Ultimately, the Feminist Software Foundation envisions an OS not unsimilar to the [Politically Correct UNIX](http://www.sjacob.org/home/humour/PC-UNIX.html), but written in **C+=**.  For the time being, here are our code examples:
 
 ###Foundations of Empowerment
-* [Hello, Feminists!](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/hellofeminists.Xe)
-* [FizzBuzz implementation](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/fizzbuzz.Xe)
-* [Privilege Checker](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/PrivilegeCheck.Xir)
-* [Diamonds](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/diamonds.Xe)
-* [Sieve](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/sieve.Xe)
-* [Femsort](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/femsort.Xe)
+* [Hello, Feminists!](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/hellofeminists.Xe)
+* [FizzBuzz implementation](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/fizzbuzz.Xe)
+* [Privilege Checker](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/PrivilegeCheck.Xir)
+* [Diamonds](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/diamonds.Xe)
+* [Sieve](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/sieve.Xe)
+* [Femsort](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/femsort.Xe)
 
 ###More Advanced Patriarchy-Smashing
-* [A Brainfuck inHERpreter](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/brainfuck.Xe)
-* [PacWomyn game](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/pacwomyn.Xe)
-* [PHP converter from C to C+=](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/feminazizer.php)
-* [Social media lynchmob initiator for misogynistic GitHub repo](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/examples/github_report.Xe)
+* [A Brainfuck inHERpreter](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/brainfuck.Xe)
+* [PacWomyn game](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/pacwomyn.Xe)
+* [PHP converter from C to C+=](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/feminazizer.php)
+* [Social media lynchmob initiator for misogynistic GitHub repo](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/examples/github_report.Xe)
 
 ###Support groups and tools for Further Equality
 * [PrivCheck IDE for C+=](https://bitbucket.org/japesinator/privcheck-ide)
@@ -97,7 +88,7 @@ That said, in*her*preter 1.0 is perfectly fine and don't you dare criticise/-ize
 Artwork
 =======
 
-No feminist project is complete without its share of feminist artwork.  [See our repository for the current cache!](https://github.com/Feminist-Software-Foundation/C-plus-Equality/blob/mistress/assets)  New artwork submissions are always welcome.
+No feminist project is complete without its share of feminist artwork.  [See our repository for the current cache!](https://github.com/TheFeministSoftwareFoundation/C-plus-Equality/blob/mistress/assets)  New artwork submissions are always welcome.
 
 On 1s and 0s
 ============
