@@ -12,7 +12,7 @@ A project of the [Feminist Software Foundation](http://feministsoftwarefoundatio
 Inspired by the [ground-breaking feminist research of Arielle Schlesinger](http://www.hastac.org/blogs/ari-schlesinger/2013/11/26/feminism-and-programming-languages).
 
 The Phoenix Arises from its Ashes. 
-**~~Now hosted on Gitorious, as **[GitHub](https://github.com/FeministSoftwareFoundation/C-plus-Equality), [BitBucket](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality), and [Google](https://code.google.com/p/c-plus-equality/) all prove to be too misogynistic to support a feminist programming language**.~~**  A feminist's fight is never finished!
+~~Now hosted on Gitorious, as **[GitHub](https://github.com/FeministSoftwareFoundation/C-plus-Equality), [BitBucket](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality), and [Google](https://code.google.com/p/c-plus-equality/) all prove to be too misogynistic to support a feminist programming language**.~~  A feminist's fight is never finished!
 
 [![ScreenShot](http://i.imgur.com/MWW01tL.png)](https://www.youtube.com/watch?v=GtP1EaPzRrM)
 
