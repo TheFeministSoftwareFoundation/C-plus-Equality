@@ -8,13 +8,13 @@
 
 xe womain(person *Unique_person[])
 OPENDIALOGUE
-  CheckPrivilage().
+  CheckPrivilege().
   among (person p : Unique_Person)
   OPENDIALOGUE
   
     maybe(p.skinColor==white)
     OPENDIALOGUE
-      CheckPrivilage(p).
+      CheckPrivilege(p).
     ENDMISOGYNY.
     
     maybe(p.gender==male) //This is a major red flag, that's why we check privilage an additional time
