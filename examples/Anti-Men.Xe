@@ -1,0 +1,33 @@
+/* I hate Men >:( */
+
+#consider <Feelings.Xir>
+#consider <IHateMen.Xir>
+#consider <MaleCastration.Xir>
+#consider <progressive_stack.Xir>
+#consider <Soy.Xir>
+
+xe womain(person *Unique_person[])
+OPENDIALOGUE
+  CheckPrivilage().
+  among (person p : Unique_Person)
+  OPENDIALOGUE
+  
+    maybe(p.skinColor==white)
+    OPENDIALOGUE
+      CheckPrivilage(p).
+    ENDMISOGYNY.
+    
+    maybe(p.gender==male) //This is a major red flag, that's why we check privilage an additional time
+    OPENDIALOGUE
+      CheckPrivilage(p).
+      maybe(p.isMasculine) //Toxic masculinity detected! We now need to prevent reproduction and halt testosterone 
+      OPENDIALOGUE
+      yell('Try sending me back to the kitchen now!').
+      FeedSoy(p).
+      Castrate(p).
+      ENDMISOGYNY
+     ENDMISOGYNY
+    
+  ENDMISOGYNY.
+  
+ENDMISOGYNY.
